@@ -1,0 +1,1442 @@
+id,title,journal,month,year
+1,"Soft Pneumatic Actuators: A Review of Design, Fabrication, Modeling, Sensing, Control and Applications",IEEE Access,Jun,2022
+2,The Machines from Our Future,MIT Press,May,2022
+3,Decade of bio-inspired soft robots: a review,Smart Mater,Jun,2022
+4,Hydrogel-based strong and fast actuators by electroosmotic turgor pressure,Science,Apr,2022
+5,Neuron-Inspired Soft Robot Teams and Their Non-Contact Electric Signal Transmission Based on Electromagnetic Induction,SoRo Journal,Apr,2022
+6,A Gas�Ribbon-Hybrid Actuated Soft Finger with Active Variable Stiffness,SoRo Journal,Apr,2022
+7,A Novel Spider-Inspired Rotary-Rolling Diaphragm Actuator with Linear Torque Characteristic and High Mechanical Efficiency,SoRo Journal,Apr,2022
+8,A Novel Jamming Structure With Interlocking Mechanism Towards Applications in Wearable Robots,IEEE RA-L,Apr,2022
+9,Simple and Scalable Soft Actuation Through Coupled Inflatable Tubes,IEEE Access,Apr,2022
+10,Untethered small-scale magnetic soft robot with programmable magnetization and integrated multifunctional modules,Science Advances,Jun,2022
+11,Locally controllable magnetic soft actuators with reprogrammable contraction-derived motions,Science Advances,Jun,2022
+12,Optimal Design of Electrode Topology of Dielectric Elastomer Actuators Based on the Parameterized Level Set Method,SoRo Journal,May,2022
+13,Finite-Time Contraction Control of a Ring-Shaped Soft Pneumatic Actuator Mimicking Gastric Pathologic Motility Conditions,SoRo Journal,Jun,2022
+14,Development of the Ultralight Hybrid Pneumatic Artificial Muscle: Modelling and optimization,PLoS ONE,Apr,2022
+15,Effects of soft and hard magnetic particles on the mechanical performance of ultra-soft magnetorheological elastomers,"Smart Matter, Struct",May,2022
+16,Design and Study of Scissor-Mechanism-Based Pneumatic Actuator With a Characteristic of Bidirectional Contraction,IEEE TMECH,May,2022
+17,3D-Printed Soft Sensors for Adaptive Sensing with Online and Offline Tunable Stiffness,SoRo Journal,Apr,2022
+18,Paper-Based Piezoresistive Force Encoder for Soft Robotic Applications,IEEE Sensors,Jun,2022
+19,Bioinspired soft electroreceptors for artificial precontact somatosensation,Science Advances,May,2022
+20,Integrated stretchable pneumatic strain gauges for electronics-free soft robots,Nature,Jun,2022
+21,Intentional Blocking Based Photoelectric Soft Pressure Sensor with High Sensitivity and Stability,SoRo Journal,May,2022
+22,A direct ink writing based fabric-embedded soft sensor for improved durability and sewability,"Smart Mater, Struct,",May,2022
+23,hysteresis conducting polymer hydrogel strain sensors for soft machines,"Adv, Mater,",Jun,2022
+24,Out-of-Plane Soft Lithography for Soft Pneumatic Microactuator Arrays,SoRo Journal,Jun,2022
+25,Bioinspired Amphibious Origami Robot with Body Sensing for Multimodal Locomotion,SoRo Journal,Jun,2022
+26,Corrigendum: Biologically inspired swimming robotic frog based on pneumatic soft actuators,"Bioinspir, Biomim",May,2022
+27,Aerial-aquatic robots capable of crossing the air-water boundary and hitchhiking on surfaces,"Sci, Robot,",May,2022
+28,SMORS: A soft multirotor UAV for multimodal locomotion and robust interaction,IEEE ICRA,Mar,2022
+29,Leaf-Like Origami with Bistability for Self-Adaptive Grasping Motions,SoRo Journal,Apr,2022
+30,Versatile Soft Robot Gripper Enabled by Stiffness and Adhesion Tuning via Thermoplastic Composite,SoRo Journal,Apr,2022
+31,Sequential contact-based adaptive grasping for robotic hands,Sage Robotics,May,2022
+32,LM-Jelly: Liquid Metal Enabled Biomimetic Robotic Jellyfish,SoRo Journal,May,2022
+33,"Bioinspired Multimodal Multipose Hybrid Fingers for Wide-Range Force, Compliant, and Stable Grasping",SoRo Journal,May,2022
+34,Analytical Modeling of the Interaction Between Soft Balloon-Like Actuators and Soft Tubular Environment for Gastrointestinal Inspection,SoRo Journal,Apr,2022
+35,Soft Robot-Assisted Minimally Invasive Surgery and Interventions: Advances and Outlook,IEEE,May,2022
+36,A Soft Exosuit Assisting Hip Abduction for Knee Adduction Moment Reduction During Walking,IEEE RA-L,Jun,2022
+37,Sigmoidal Auxiliary Tendon-Driven Mechanism Reinforcing Structural Stiffness of Hyper-Redundant Manipulator for Endoscopic Surgery,SoRo Journal,Jun,2022
+38,Closing the Control Loop with Time-Variant Embedded Soft Sensors and Recurrent Neural Networks,SoRo Journal,Apr,2022
+39,Modeling the Locomotion of Articulated Soft Robots in Granular Medium,IEEE RA-L,May,2022
+40,Model-Based Eversion Control of Soft Growing Robots With Pneumatic Actuation,IEEE,May,2022
+41,Force/Torque-Sensorless Joint Stiffness Estimation in Articulated Soft Robots,IEEE RA-L,May,2022
+42,Quasi-Static FEA Model for a Multi-Material Soft Pneumatic Actuator in SOFA,IEEE RA-L,Jun,2022
+43,Nonlinear Dynamics Modeling and Fault Detection for a Soft Trunk Robot: An Adaptive NN-Based Approach,IEEE RA-L,Jun,2022
+44,Learning-Based Approach for a Soft Assistive Robotic Arm to Achieve Simultaneous Position and Force Control,IEEE RA-L,Jun,2022
+45,Control-Oriented Models for Hyperelastic Soft Robots Through Differential Geometry of Curves,SoRo Journal,Jun,2022
+46,Topology and Morphology Design of Spherically Reconfigurable Homogeneous Modular Soft Robots,SoRo Journal,Jul,2022
+47,Kinematic modeling and characterization of soft parallel robots,IEEE T-RO,Jun,2022
+48,DeSKO: Stability-Assured Robust Control with a Deep Stochastic Koopman Operator,ICLR conf,May,2022
+49,Simplified dynamical model and experimental verification of an underwater hydraulic soft robotic arm,"Smart Mater, Struct,",Jun,2022
+50,Biological Robots: Perspectives on an Emerging Interdisciplinary Field,SoRo J,Apr,2023
+51,"A Perspective on Miniature Soft Robotics: Actuation, Fabrication, Control, and Applications",Adv Intel Sys,Apr,2023
+52,Soft Actuators and Robots Enabled by Additive Manufacturing,Annual Rev Control Robot Auto Sys,May,2023
+53,On the Timescales of Embodied Intelligence for Autonomous Adaptive Systems,Annual Rev Control Robot Auto Sys,May,2023
+54,Electroadhesion zipping with soft grippers on curved objects,Extreme Machin Lett,Jun,2023
+55,Topology Design and Optimization of Modular Soft Robots Capable of Homogenous and Heterogenous Reconfiguration,ASME J Comput Nonlin Dyn,Apr,2023
+56,StarBlocks: Soft Actuated Self-Connecting Blocks for Building Deformable Lattice Structures,IEEE RA-L,Jun,2023
+57,Hapstick: A Soft Flexible Joystick for Stiffness Rendering via Fiber Jamming,IEEE RA-L,Jun,2023
+58,A Magnetically-Actuated Coiling Soft Robot With Variable Stiffness,IEEE RA-L,Apr,2023
+59,A Novel Variable Stiffness and Tunable Bending Shape Soft Robotic Finger Based on Thermoresponsive Polymers,IEEE TIM,May,2023
+60,Deployment of an electrocorticography system with a soft robotic actuator,Science,May,2023
+61,Soft and lightweight fabric enables powerful and high-range pneumatic actuation,Science,Apr,2023
+62,Pangolin-inspired untethered magnetic robot for on-demand biomedical heating applications,Nature,Jun,2023
+63,Chemically Driven Oscillating Soft Pneumatic Actuation,SoRo J,Jun,2023
+64,Selaginella lepidophylla-Inspired Multi-Stimulus Cooperative Control MXene-Based Flexible Actuator,SoRo J,Jun,2023
+65,Magnetic Liquid Metal Droplet Robot with Multifunction and High Output Force in Milli-Newton,SoRo J,Jun,2023
+66,Electrostatic Adhesion Clutch with Superhigh Force Density Achieved by MXene-Poly(Vinylidene Fluoride�Trifluoroethylene� Chlorotrifluoroethylene) Composites,SoRo J,Jun,2023
+67,Nonlinear Multimaterial Architecture for Greater Soft Material�s Toughness and Delaying Damage Propagation,SoRo J,May,2023
+68,Design and Development of a Continuum Robot with Switching-Stiffness,SoRo J,May,2023
+69,Multifunctional Soft Stackable Robots by Netting�Rolling�Splicing Pneumatic Artificial Muscles,SoRo J,Apr,2023
+70,Recent Advances in Electrically Driven Soft Actuators across Dimensional Scales from 2D to 3D,Adv Intel Sys,Jun,2022
+71,Electrodeposited Superhydrophilic-Superhydrophobic Composites for Untethered Multi-Stimuli-Responsive Soft Millirobots,Adv Sci,Jun,2023
+72,Reconfigurable Liquid-Bodied Miniature Machines: Magnetic Control and Microrobotic Applications,Adv Intel Sys,May,2023
+73,Shape Memory Soft Robotics with Yield Stress Fluids,Adv Intel Sys,May,2023
+74,Thin-Film-Shaped Flexible Actuators,Adv Intel Sys,Apr,2023
+75,3D Knitting for Pneumatic Soft Robotics,Adv Func Mater,Apr,2023
+76,"Fully Recyclable, Healable, Soft, and Stretchable Dynamic Polymers for Magnetic Soft Robots",Adv Func Mater,Apr,2023
+77,Kinematic modelling and experimental testing of a particle-jamming soft robot based on a DEM-FEM coupling method,Bioinsp Biomim,Jun,2023
+78,Soft Multimaterial Magnetic Fibers and Textiles,Adv Mater,Apr,2023
+79,Development of an Active Physical Interface for Physical Human-Robot Interaction: Investigation of Soft Pneumatic Actuator Straps for Automatic Enclosure System,Actuators,May,2023
+80,Optical Soft Tactile Sensor Algorithm Based on Multiscale ResNet,IEEE Sensors,May,2023
+81,3-D Printed Microfluidic Coils With Liquid Metal for Wireless Motion Sensing,IEEE Sensors- L,May,2023
+82,Permeable Thermistor Temperature Sensors Based on Porous Melamine Foam,IEEE Sensors- L,May,2023
+83,EM-Skin: An Artificial Robotic Skin Using Magnetic Inductance Tomography,IEEE TIM,May,2023
+84,In situ sensing physiological properties of biological tissues using wireless miniature soft robots,Science,Jun,2023
+85,"Neuromorphic sensorimotor loop embodied by monolithically integrated, low-voltage, soft e-skin",Science,May,2023
+86,Multi-parameter e-skin based on biomimetic mechanoreceptors and stress field sensing,Nature,Apr,2023
+87,A Passive Wireless Sensing Method Based on Magnetic Resonance Coupling and Bulk Acoustic Wave Device,IEEE Sens,Apr,2023
+88,An Artificial Intelligence-Motivated Skin-Like Optical Fiber Tactile Sensor,Adv Intel Sys,Apr,2023
+89,Soft Steps: Exploring Quadrupedal Locomotion With Modular Soft Robots,IEEE Access,Jun,2023
+90,"Autonomous, untethered gait-like synchronization of lobed loops made from liquid crystal elastomer fibers via spontaneous snap-through",Science,May,2023
+91,Soft climbing robot with magnetic feet for multimodal locomotion,Nature,May,2023
+92,A Soft-Bodied Aerial Robot for Collision Resilience and Contact- Reactive Perching,SoRo J,Apr,2023
+93,Kirigami Makes a Soft Magnetic Sheet Crawl,Adv Sci,Jun,2023
+94,Recent Development of Jumping Motions Based on Soft Actuators,Adv Func Mater,May,2023
+95,A Highly Robust Amphibious Soft Robot with Imperceptibility Based on a Water-Stable and Self-Healing Ionic Conductor,Adv Mater,Apr,2023
+96,Jamming Gripper-Inspired Soft Jig for Perceptive Parts Fixing,IEEE Access,Jun,2023
+97,TRIGGER: A Lightweight Universal Jamming Gripper for Aerial Grasping,IEEE Access,May,2023
+98,A Fault-Tolerant Soft Swallowing Robot Capable of Grasping Delicate Structures Underwater,IEEE RA-L,Apr,2023
+99,A Soft Hand Exoskeleton With a Novel Tendon Layout to Improve Stable Wearing in Grasping Assistance,IEEE ToH,Jun,2023
+100,JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low- Visibility Environments,SoRo J,Jun,2023
+101,A Preprogrammable Continuum Robot Inspired by Elephant Trunk for Dexterous Manipulation,SoRo J,Jun,2023
+102,Improvement of Precision Grasping Performance by Interaction Between Soft Finger Pulp and Hard Nail,SoRo J,Apr,2023
+103,An Anthropomorphic Robotic Hand With a Soft-Rigid Hybrid Structure and Positive- Negative Pneumatic Actuation,IEEE RA-L,Jun,2023
+104,DeforMoBot: A Bio-Inspired Deformable Mobile Robot for Navigation Among Obstacles,IEEE RA-L,May,2023
+105,�RobOstrich� Manipulator: A Novel Mechanical Design and Control Based on the Anatomy and Behavior of an Ostrich Neck,IEEE RA-L,Apr,2023
+106,Biomimetic thermoresponsive superstructures by colloidal soft-and- hard co-assembly,Science,Jun,2023
+107,A versatile jellyfish-like robotic platform for effective underwater propulsion and manipulation,Science,Apr,2023
+108,"Bio-Mimic, Fast-Moving, and Flippable Soft Piezoelectric Robots",Adv Sci,May,2023
+109,Bioinspired Synergy Strategies Empower Small-Scale Robots with Higher Performance,Adv Intel Sys,Apr,2023
+110,A worm-inspired robot based on origami structures driven by the magnetic field,Bioinsp Biomim,May,2023
+111,Posture Estimation by Clustering Pressure Information and Control Implementation for Pneumatically Driven Gait-Assistive Robot,IEEE Access,Apr,2023
+112,TacMMs: Tactile Mobile Manipulators for Warehouse Automation,IEEE RA-L,Jun,2023
+113,Toward Continuum Robot Tentacles for Lung Interventions: Exploring Folding Support Disks,IEEE RA-L,Apr,2023
+114,A Human Lower Limb Mechanical Phantom for the Testing of Knee Exoskeletons,IEEE TNSRE,Jun,2023
+115,Robotic endoscope with double-balloon and double-bend tube for colonoscopy,Nature,Jun,2023
+116,A Hybrid Anchoring Technology Composed of Reinforced Flexible Shells for a Knee Unloading Exosuit,SoRo J,May,2023
+117,"Tunable, Textile-Based Joint Impedance Module for Soft Robotic Applications",SoRo J,Apr,2023
+118,Design and Modeling of Fabric-Shelled Pneumatic Bending Soft Actuators,IEEE RA-L,Apr,2023
+119,Ablation Study of a Dynamic Model for a 3D-Printed Pneumatic Soft Robotic Arm,IEEE Access,Apr,2023
+120,Independent and Hybrid Magnetic Manipulation for Full Body Controlled Soft Continuum Robots,IEEE RA-L,Jun,2023
+121,A Framework for Simulation of Magnetic Soft Robots Using the Material Point Method,IEEE RA-L,Apr,2023
+122,Residual Reinforcement Learning for Motion Control of a Bionic Exploration Robot �RoboDact�,IEEE TIM,Jun,2023
+123,Cosserat Rod Modeling of Continuum Robots from Newtonian and Lagrangian Perspectives,IEEE TRo,Jun,2023
+124,Human-Powered Master Controllers for Reconfigurable Fluidic Soft Robots,SoRo J,May,2023
+125,Kinetostatic Modeling of Soft Robots: Energy-Minimization Approach and 99-Line MATLAB Implementation,SoRo J,Apr,2023
+126,Koopman Operator-based Extended Kalman Filter for Cosserat Rod Wrench Estimation,IEEE SIMR,May,2023
+127,Parallel-Continuum Robots: A Survey,IEEE T-RO,Jun,2024
+128,Evolution of 3d printing technology in fabrication of microfluidic devices and biological applications: a comprehensive review,Sage,Apr,2024
+129,Intelligent textiles are looking bright,Science,Apr,2024
+130,Untethered soft actuators for soft standalone robotics,Nature,Apr,2024
+131,Towards edible robots and robotic food,Nature,May,2024
+132,A Review of Somatic Design for Soft Robotic Grippers: From Parts Integration to Functional Synergy,Wiley,May,2026
+133,"Recent Advances in Bioinspired Soft Robots: Fabrication, Actuation, Tracking, and Applications",Wiley,Apr,2024
+134,Advanced Flexible Sensing Technologies for Soft Robots,Wiley,Apr,2024
+135,A Spider Leg-Inspired mm-Scale Soft Exoskeleton Enabled by Liquid via Hydration and Charge Transport,Wiley,Apr,2024
+136,Compliant Electropermanent Magnets,RoboSoft,Apr,2024
+137,"Hard Shell, Soft Core: Binary Actuators for Deep-Sea Applications",ICRA,May,2024
+138,Electrostatically Driven Kresling Origami Soft Pump,IEEE RA-L,Jun,2024
+139,Vine Robots With Magnetic Skin for Surgical Navigations,IEEE RA-L,Jun,2024
+140,Workspace Expansion of Magnetic Soft Continuum Robot Using Movable Opposite Magnet,IEEE RA-L,Jun,2024
+141,Design and Kinematic Modeling of a Pneumatic Soft Bellow-Type Wrist,IEEE RA-L,May,2024
+142,Vacuum-Driven Class-2 Tensegrity-Based Mechanism for Quadrupedal Robot Motion,IEEE RA-L,May,2024
+143,Bidirectional Support for Individual Finger Joints in Soft Rehabilitation Gloves: Integration of Foldable Pouch Actuators With Modular Elastomeric Actuators,IEEE Access,Apr,2024
+144,Soft Printable Robots With Flexible Metal Endoskeleton,IEEE T-RO,Apr,2024
+145,Universal Actuation Module and Kinematic Model for Heart Valve Interventional Catheter Robotization,IEEE RA-L,Apr,2024
+146,"A Soft Crawling Robot That Can Self-Repair Material Removal and Deep Lengthwise Cuts, Actuated by Thin McKibben Muscles",IEEE RA-L,Apr,2024
+147,Design of an Accordion-Fold-Inspired Soft Electrohydraulic Actuator for Angular Motion,IEEE RA-L,Apr,2024
+148,Functional soft robotic composites based on organic photovoltaic and dielectric elastomer actuator,Nature,Apr,2024
+149,A large-strain and ultrahigh energy density dielectric elastomer for fast moving soft robot,Nature,May,2024
+150,Statistical field theory of polarizable polymer chains with nonlocal dipolar interactions,"Physical Rev,",Apr,2024
+151,3D Printed Magnetic Bionic Robot Inspired by Octopus for Drug Transportation,SoRo Journal,Jun,2024
+152,Effective On-Line Performance Modulation and Efficient Continuous Preparation of Ultra-Long Twisted and Coiled Polymer Artificial Muscles for Engineering Applications,SoRo Journal,Jun,2024
+153,"Light-Responsive Hydrogel Microcrawlers, Powered and Steered with Spatially Homogeneous Illumination",SoRo Journal,Jun,2024
+154,Perceptually Inspired C0-Continuity Haptic Shape Display with Trichamber Soft Actuators,SoRo Journal,May,2024
+155,A Reconfigurable Soft Linkage Robot via Internal �Virtual� Joints,SoRo Journal,Apr,2024
+156,Single-Material Solvent-Driven Polydimethylsiloxane Sponge Bending Actuators,SoRo Journal,Apr,2024
+157,Proprioception and Control of a Soft Pneumatic Actuator Made of a Self-Healable Hydrogel,SoRo Journal,Apr,2024
+158,Bioinspired Soft Electrostatic Accordion-Fold Actuators,SoRo Journal,Apr,2024
+159,Origami Polyhedra-Based Soft Multicellular Robots,SoRo Journal,Apr,2024
+160,Driving macro-scale transformations in three-dimensional-printed biopolymers through controlled induction of molecular anisotropy at the nanoscale,Royal Society,Jun,2024
+161,Cobalt MOF-Based Porous Carbonaceous Spheres for Multimodal Soft Actuator Exhibiting Intricate Biomimetic Motions,Wiley,Jun,2024
+162,Coaxial-Spun Hollow Liquid Crystal Elastomer Fiber as a Versatile Platform for Functional Composites,Wiley,Jun,2024
+163,Multifunctional and Electronically Conjugated Triazine Framework for Superior Electro-Ionic Artificial Muscles,Wiley,Jun,2024
+164,Design and Scalable Fast Fabrication of Biaxial Fabric Pouch Motors for Soft Robotic Artificial Muscle Applications,Wiley,Jun,2024
+165,Active Fabrics With Controllable Stiffness for Robotic Assistive Interfaces,Wiley,Jun,2024
+166,Thermally Driven 3D Seamless Textile Actuators for Soft Robotic Applications,Wiley,May,2024
+167,Hofmeister-Effect-Driven Hybrid Glycerogels for Perfect Wide- Temperature Shape Fixity and Shape Recovery in Soft Robotics Applications,Wiley,May,2024
+168,Magnetic soft centirobot to mitigate biological threats,Wiley,May,2024
+169,Sheet-Based Fluidic Diodes for Embedded Fluidic Circuitry in Soft Devices,Wiley,Apr,2024
+170,Dynamic Contact Force Estimation via Integration of Soft Sensor Based on Fiber Bragg Grating and Series Elastic Actuator,IEEE RA-L,Jun,2024
+171,Soft Robotic Proprioception Enhancement via 3D-Printed Differential Optical Waveguide Design,IEEE RA-L,Jun,2024
+172,A Planar Coil-Based Inductive Bend Sensor for Soft Robotic Applications,IEEE Sensors,Jun,2024
+173,Dual-Parameter and High-Density Sensor Array Based on a-IGZO Thin Film Transistors,IEEE T-ED,May,2024
+174,Hysteresis Compensation of Flexible Continuum Manipulator Using RGBD Sensing and Temporal Convolutional Network,IEEE RA-L,May,2024
+175,Improving Perception Accuracy of Flexible Capacitive Stretchable Sensors Using Piecewise Power-Law Model,IEEE Sensors,May,2024
+176,Stretchable Liquid Metal E-Skin for Soft Robot Proprioceptive Vibration Sensing,IEEE Sensors,Apr,2024
+177,"Exploration of Electrical Impedance Tomography and Grid-Based Soft Sensors for Distributed, Large Deformation Strain Sensing Based on a Fiber-Elastomer Composite",IEEE Sensors-L,Apr,2024
+178,A comparative study on the multidirectional piezo-resistive scenario of conventional and auxetic silicone-based sensors coated with graphite powder,Sage,Apr,2024
+179,A three-dimensionally architected electronic skin mimicking human mechanosensation,Science,May,2024
+180,A Soft Inductive Bimodal Sensor for Proprioception and Tactile Sensing of Soft Machines,SoRo Journal,Jun,2024
+181,Real-Time Shape Estimation of Hyper-Redundant Flexible Manipulator Using Coiled Fiber Sensors,SoRo Journal,May,2024
+182,High-Load Capable Soft Tactile Sensors: Incorporating Magnetorheological Elastomer for Accurate Contact Detection and Classification of Asymmetric Mechanical Components,Wiley,Jun,2024
+183,Solar Spectrum Light-Driven Silicone-Based Fluidic Actuators,Wiley,Jun,2024
+184,Glassy gels toughened by solvent,Nature,Jun,2024
+185,A novel pellet-based 3D printing of high stretchable elastomer,Sage,Apr,2024
+186,Programming Motion into Materials Using Electricity-Driven Liquid Crystal Elastomer Actuators,SoRo Journal,Jun,2024
+187,Volumetric 3D Printing of Endoskeletal Soft Robots,Wiley,Jun,2024
+188,A Naturally Inspired Extrusion-Based Microfluidic Approach for Manufacturing Tailorable Magnetic Soft Continuum Microrobotic Devices,Wiley,May,2024
+189,Trajectory Planning on Rolling Locomotion of Spherical Movable Tensegrity Robots with Multi-Gait Patterns,SoRo Journal,Apr,2024
+190,PEGrip: A Plant-Tendril-Inspired Passive Entanglement Gripper Enabling Fail-Safe Grasping,IEEE RA-L,Jun,2024
+191,A Fractal Suction-Based Robotic Gripper for Versatile Grasping,IEEE RA-L,May,2024
+192,Integrated Barometric Pressure Sensors on Legged Robots for Enhanced Tactile Exploration of Edges,IEEE RA-L,May,2024
+193,On Optimal Tendon Routing-Based Design of Biologically Inspired Underactuated Hand Exoskeleton for Gross Grasping,IEEE T-MRB,Apr,2024
+194,An SMA-actuated soft robot with encircling gripping by adjustable grasping span,Sage,May,2024
+195,Unlocking Versatility: Magnetic-Actuated Deployable Suction Gripper for Complex Surface Handling,SoRo Journal,Jun,2024
+196,Model-Based Design of Variable Stiffness Soft Gripper Actuated by Smart Hydrogels,SoRo Journal,Apr,2024
+197,Stiff morphing composite beams inspired from fish fins,Royal Society,Jun,2024
+198,Earthworm-Inspired Soft Skin Crawling Robot,Wiley,Apr,2024
+199,"Acceptance and Usability of a Soft Robotic, Haptic Feedback Seat for Autonomy Level Transitions in Highly Automated Vehicles",IEEE ToH,Apr,2024
+200,Hybrid Brain-Computer Interface Controlled Soft Robotic Glove for Stroke Rehabilitation,IEEE J-BHI,Apr,2024
+201,Soft robotic platform for progressive and reversible aortic constriction in a small-animal model,Science,Jun,2024
+202,Educational Soft Underwater Robot with an Electromagnetic Actuation,SoRo Journal,Jun,2024
+203,Magnetic Soft Catheter Robot System for Minimally Invasive Treatments of Articular Cartilage Defects,SoRo Journal,May,2024
+204,Optically Actuated Soft Microrobot Family for Single-Cell Manipulation,Wiley,Jun,2024
+205,Tactile emoticons: Conveying social emotions and intentions with manual and robotic tactile feedback during social media communications,PLOS one,Jun,2024
+206,Constrained trajectory optimization and force control for UAVs with universal jamming grippers,Nature,May,2024
+207,Controlling Soft Robotic Arms Using Hybrid Modelling and Reinforcement Learning,IEEE RA-L,Jun,2024
+208,Deformation Control of a 3D Soft Object Using RGB-D Visual Servoing and FEM-Based Dynamic Model,IEEE RA-L,Jun,2024
+209,Analytical Model and Experimental Testing of the SoftFoot: An Adaptive Robot Foot for Walking Over Obstacles and Irregular Terrains,IEEE T-RO,Jun,2024
+210,Robust Visual Feedback Control for Precise In-Hand Manipulation Using Parallel Soft Actuators,IEEE T-RO,Jun,2024
+211,Comprehensive Gradient Computation Framework of PCS Model for Soft Robot Simulation,IEEE RA-L,May,2024
+212,3-D Meso-Scale Finite Element Calculations of Free Energy on Twin Boundaries in Magnetic Shape Memory Alloys,IEEE T-M,May,2024
+213,A Perturbation-Robust Framework for Admittance Control of Robotic Systems With High-Stiffness Contacts and Heavy Payload,IEEE RA-L,May,2024
+214,Pressure-Based Soft Agents,Artificial Life,May,2024
+215,PH-Gauss-Lobatto Reduced-Order-Model for Shape Control of Soft- Continuum Manipulators,IEEE T-RO,Apr,2024
+216,Enhancing the Performance of a Biomimetic Robotic Elbow-and-Forearm System Through Bionics-Inspired Optimization,IEEE T-RO,Apr,2024
+217,Cosserat-Rod-Based Dynamic Modeling of Soft Slender Robot Interacting With Environment,IEEE T-RO,Apr,2024
+218,Efficient large-deformation shell elements for the simulation of electromechanical coupling effects in incompressible dielectric elastomers,Sage,Jun,2024
+219,Learning Soft Millirobot Multimodal Locomotion with Sim-to-Real Transfer,Wiley,Jun,2024
+220,Modeling and Experimental Validation of High-Flow Fluid-Driven Membrane Valves for Hyperactuated Soft Robots,Wiley,May,2024
+221,"3D octopus kinematics of complex postures: Translation to long, thin, soft devices and their potential for clinical use",PLOSE one,May,2024
+222,Outsourcing Control Requires Control Complexity,MIT Press,Jun,2024
+223,"Soft, Wearable Robotics and Haptics: Technologies, Trends, and Emerging Applications",IEEE,Jan,2022
+224,Soft Robotic Perspective and Concept for Planetary Small Body Exploration,SoRo Journal,Jan,2022
+225,Electronics-free soft robot has a nice ring to it,Science,Feb,2022
+226,Hybrid Robotic Manipulator Using Sensorized Articulated Segment Joints With Soft Inflatable Rubber Bellows,IEEE,Mar,2022
+227,A Snake-Inspired Multi-Segmented Magnetic Soft Robot Towards Medical Applications,IEEE RA-L,Mar,2022
+228,"Soft Artificial Muscle With Proprioceptive Feedback: Design, Modeling and Control",IEEE RA-L,Feb,2022
+229,Soft Tensegrity Robot Driven by Thin Artificial Muscles for the Exploration of Unknown Spatial Configurations,IEEE RA-L,Feb,2022
+230,A Healable Resistive Heater as a Stimuli-Providing System in Self- Healing Soft Robots,IEEE RA-L,Feb,2022
+231,Design and Characterisation of a Muscle-Mimetic Dielectrophoretic Ratcheting Actuator,IEEE RA-L,Feb,2022
+232,Body Temperature-Triggered Mechanical Instabilities for High-Speed Soft Robots,SoRo Journal,Feb,2022
+233,Tuning the grasping strength of soft actuators with magnetic elastomer fingertips,smart mater struct,Mar,2022
+234,"Fabrication, modeling, and characterization of soft twisting electrothermal actuators with directly printed oblique heater",J micromech microeng,Jan,2022
+235,Self-healing ionic gelatin/glycerol hydrogels for strain sensing applications,Nature,Feb,2022
+236,Soft Robot Skin With Conformal Adaptability for On-Body Tactile Perception of Collaborative Robots,IEEE RA-L,Mar,2022
+237,Tentacled snakes-inspired flexible pressure sensor for pain sensation monitoring,Smart Mater Struct,Feb,2022
+238,One reaction to make highly stretchable or extremely soft silicone elastomers from easily available materials,Nature,Jan,2022
+239,A Modular Approach to Design Multi-Channel Bistable Valves for Integrated Pneumatically-Driven Soft Robots via 3D-Printing,IEEE RA-L,Feb,2022
+240,Development and experiment evaluation of a compact inchworm piezoelectric actuator using three-jaw type clamping mechanism,smart mater struct,Mar,2022
+241,A 3D Printed Soft Robotic Gripper With a Variable Stiffness Enabled by a Novel Positive Pressure Layer Jamming Technology,IEEE RA-L,Mar,2022
+242,"Combining Suction and Friction to Stabilize a Soft Gripper to Shear and Normal Forces, for Manipulation of Soft Objects in Wet Environments",IEEE RA-L,Feb,2022
+243,Tendon-Driven Soft Robotic Gripper for Blackberry Harvesting,IEEE RA-L,Jan,2022
+244,A Bidirectional Soft Biomimetic Hand Driven by Water Hydraulic for Dexterous Underwater Grasping,IEEE RA-L,Jan,2022
+245,Versatile Soft Robot Gripper Enabled by Stiffness and Adhesion Tuning via Thermoplastic Composite,SoRo Journal,Jan,2022
+246,Pneumatically Actuated Soft Gripper with Bistable Structures,SoRo Journal,Feb,2022
+247,Soft robotic origami crawler,Science,Mar,2022
+248,Fluid-Driven Traveling Waves in Soft Robots,SoRo Journal,Feb,2022
+249,An Ambidextrous STarfish-Inspired Exploration and Reconnaissance Robot (The ASTER-bot),SoRo Journal,Jan,2022
+250,FEM-Based Nonlinear Controller for a Soft Trunk Robot,IEEE RA-L,Mar,2022
+251,Layer Jamming for Variable Stiffness Shoes,IEEE RA-L,Feb,2022
+252,MRI-Compatible Soft Robotic Sensing Pad for Head Motion Detection,IEEE RA-L,Feb,2022
+253,Dynamic analysis of dielectric elastomer membrane for actuation in soft fish robots,Sage Journals,Mar,2022
+254,Maneuver and formation control of a pair of soft pneumatic bending fingers by a cooperative strategy for planar in-hand object manipulation,Sage Journals,Feb,2022
+255,The Soft Compiler: A Web-Based Tool for the Design of Modular Pneumatic Circuits for Soft Robots,IEEE RA-L,Mar,2022
+256,Calibration Method for Soft Robots Modeled With FEM: Application to Anisotropy,IEEE RA-L,Mar,2022
+257,Constrained Motion Planning of a Cable-Driven Soft Robot With Compressible Curvature Modeling,IEEE RA-L,Feb,2022
+258,SoMoGym: A Toolkit for Developing and Evaluating Controllers and Reinforcement Learning Algorithms for Soft Robots,IEEE RA-L,Feb,2022
+259,FEM-Based Exterior Workspace Boundary Estimation for Soft Robots via Optimization,IEEE RA-L,Feb,2022
+260,A Static Modeling Approach for Thin-Walled Soft Robotic Arms Considering Geometric and Material Nonlinearity,IEEE RA-L,Jan,2022
+261,Evolutionary Inverse Material Identification: Bespoke Characterization of Soft Materials Using a Metaheuristic Algorithm,Front Rob AI,Jan,2022
+262,Magnetically Actuated Continuum Medical Robots: A Review,Adv Intel Sys,Mar,2023
+263,Soft Mechanosensing via 3D Printing: A review,Adv Intel Sys,Feb,2023
+264,Perspective for soft robotics: the field�s past and future,Bioinsp Biomim,Mar,2023
+265,Variable Stiffness Technologies for Soft Robotics: A Comparative Approach for the STIFF-FLOP Manipulator,Actuators,Jan,2023
+266,"Towards a Soft Science of Soft Robots, A Call for a Place for Aesthetics in Soft Robotics Research",ACM Trans Human Robot Intract,Mar,2023
+267,Photo-Responsive Bilayer Soft Actuators Synergic Fluorescence and Shape Change Towards Biomimetic Untethered Camouflage Robots,Adv Optic Mater,Feb,2023
+268,Programming 3D Curves with Discretely Constrained Cylindrical Inflatables,Adv Mater,Mar,2023
+269,Design of Shape Actively Controllable Planar Pneumatic Kirigami Actuator,IEEE RA-L,Mar,2023
+270,Flexible and Slim Device Switching Air Blowing and Suction by a Single Airflow Control,IEEE RA-L,Mar,2023
+271,"Design, Fabrication, and Characterization of a Helical Adaptive Multi-Material MicroRobot (HAMMR)",IEEE RA-L,Feb,2023
+272,Fast Actuating Multi-Helically Heated Twisted and Coiled Polymer Actuator,IEEE RA-L,Jan,2023
+273,Inflated Bendable Eversion Cantilever Mechanism With Inner Skeleton for Increased Stiffness,IEEE RA-L,Jan,2023
+274,Biodegradable electrohydraulic actuators for sustainable soft robots,Science Advances,Mar,2023
+275,An earthworm-like modular soft robot for locomotion in multi-terrain environments,Nature,Jan,2023
+276,A bioadhesive robot to activate muscles,Nature,Feb,2023
+277,Self-folding soft-robotic chains with reconfigurable shapes and functionalities,Nature,Mar,2023
+278,Three-dimensional ori-kirigami metamaterials with multistability,Physical Review,Mar,2023
+279,Kirigami-Inspired 3D Printable Soft Pneumatic Actuators with Multiple Deformation Modes for Soft Robotic Applications,SoRo Journal,Feb,2023
+280,Modular Soft Robot with Origami Skin for Versatile Applications,SoRo Journal,Mar,2023
+281,Strong Reliable Electrostatic Actuation Based on Self-Clearing Using a Thin Conductive Layer,SoRo Journal,Feb,2023
+282,Design and Control of Lightweight Bionic Arm Driven by Soft Twisted and Coiled Artificial Muscles,SoRo Journal,Feb,2023
+283,Anisotropic Contraction in a Magnetically Hard but Mechanically Ultra-Soft Foam for Precise Drug Delivery,Adv Mater Tech,Jan,2023
+284,On variable stiffness of flexible parallel electroadhesive structures,Smart Mater Struct,Mar,2023
+285,Bending-Sensitive Optical Waveguide Sensor With Carbon-Fiber Layer for Monitoring Grip Strength,IEEE Transactions,Mar,2023
+286,Stretchable e-skin and transformer enable high-resolution morphological reconstruction for soft robots,Nature,Feb,2023
+287,Soft wearable flexible bioelectronics integrated with an ankle-foot exoskeleton for estimation of metabolic costs and physical effort,Nature,Jan,2023
+288,A Skin-Like Soft Compression Sensor for Robotic Applications,SoRo Journal,Mar,2023
+289,An audio-tactile interface based on dielectric elastomer actuators,Smart Mater Struct,Feb,2023
+290,"Fully 3D-Printed, Stretchable, and Conformable Haptic Interfaces",Adv FUnc Mater,Feb,2023
+291,3D Printing of Small-Scale Soft Robots with Programmable Magnetization,Adv Func Mater,Jan,2023
+292,Inexpensive monolithic additive manufacturing of silicone structures for bio-inspired soft robotic systems,Eng Res Exp,Feb,2023
+293,Centimeter-Scale Underwater Robot With High-Speed Inspired by Jellyfish,IEEE RA-L,Mar,2023
+294,Magnetic-field-induced propulsion of jellyfish-inspired soft robotic swimmers,Physical Review,Jan,2023
+295,"https://onlinelibrary,wiley,com/doi/10,1002/admt,202201813",Adv Mat Tech,Mar,2023
+296,A Visible and Near-Infrared Light-Fueled Omnidirectional Twist-Bend Crawling Robot,Adv Func Mater,Feb,2023
+297,Octopus-Inspired Suction Cup Array for Versatile Grasping Operations,IEEE RA-L,Mar,2023
+298,Large Torsion Thin Artificial Muscles Tensegrity Structure for Twist Manipulation,IEEE RA-L,Jan,2023
+299,A Multi-DoF Exoskeleton Haptic Device for the Grasping of a Compliant Object Adapting to a User�s Motion Using Jamming Transitions,IEEE Transactions,Jan,2023
+300,Soft robotic finger with variable effective length enabled by an antagonistic constraint mechanism,Smart Mater Struct,Mar,2023
+301,Inspired by Physical Intelligence of an Elephant Trunk: Biomimetic Soft Robot With Pre-Programmable Localized Stiffness,IEEE RA-L,Mar,2023
+302,Caterpillar-inspired soft crawling robot with distributed programmable thermal actuation,Science Advances,Mar,2023
+303,A Gecko-Inspired Robot with a Flexible Spine Driven by Shape Memory Alloy Springs,SoRo Journal,Feb,2023
+304,Soft Robots for Cluttered Environments Based on Origami Anisotropic Stiffness Structure (OASS) Inspired by Desert Iguana,Adv Intel Sys,Mar,2023
+305,Analysis modeling and experiment of bionic winding soft actuator inspired by plant tendrils,Smart Mater Struct,Feb,2023
+306,"A High-Strength, Highly-Flexible Robotic Strap for Harnessing, Lifting, and Transferring Humans",IEEE RA-L,Feb,2023
+307,Soft robotic patient-specific hydrodynamic model of aortic stenosis and ventricular remodeling,Science Robotics,Feb,2023
+308,Development of a comfort suit-type soft-wearable robot with flexible artificial muscles for walking assistance,Nature,Mar,2023
+309,A Lower Limb Rehabilitation Assistance Training Robot System Driven by an Innovative Pneumatic Artificial Muscle System,SoRo Journal,Feb,2023
+310,"Study on the effects of shoe cushioning on trail-running: perception, bench test and biomechanical approach",Foot Sci,Feb,2023
+311,Design and Modeling of a Hybrid Soft Robotic Manipulator With Compliant Mechanism,IEEE RA-L,Feb,2023
+312,Dynamic Control of Soft Robotic Arm: An Experimental Study,IEEE RA-L,Feb,2023
+313,Asymmetric Continuum Robots,IEEE RA-L,Jan,2023
+314,The Folded Pneumatic Artificial Muscle (foldPAM): Towards Programmability and Control via End Geometry,IEEE RA-L,Jan,2023
+315,Modelling of Tendon-Driven Continuum Robot Based on Constraint Analysis and Pseudo-Rigid Body Model,IEEE RA-L,Jan,2023
+316,An Improved Koopman-MPC Framework for Data-Driven Modeling and Control of Soft Actuators,IEEE RA-L,Jan,2023
+317,Position and Orientation Control of Multisection Magnetic Soft Microcatheters,IEEE Transactions,Jan,2023
+318,Dynamic response prediction of hydraulic soft robotic arms based on LSTM neural network,Sage,Feb,2023
+319,Soft Robot Proprioception Using Unified Soft Body Encoding and Recurrent Neural Network,SoRo Journal,Mar,2023
+320,Macro Fiber Composite-Actuated Soft Robotic Fish: A Gray Box Model- Predictive Motion Planning Strategy Under Limited Actuation,SoRo Journal,Mar,2023
+321,Optimal Control of Dielectric Elastomer Actuated Multibody Dynamical Systems,SoRo Journal,Mar,2023
+322,Adaptive Actuation of Magnetic Soft Robots Using Deep Reinforcement Learning,Adv Intel Sys,Jan,2023
+323,Design and Modeling Framework for DexTeR: Dexterous Continuum Tensegrity Manipulator,ASME J Mech Robot,Mar,2023
+324,Tensegrity metamaterials for soft robotics,Sci Robot,Aug,2020
+325,Speedy soft robots,Nat Rev Mater,Sep,2020
+326,3D-printed multifunctional materials enabled by artificial- intelligence-assisted fabrication technologies,Nat Rev Mater,Oct,2020
+327,"Compliant gripper design, prototyping, and modeling using screw theory formulation",Int J Robot Res,Aug,2020
+328,"A multimodal, enveloping soft gripper: Shape conformation, bioinspired adhesion, and expansion-driven suction",IEEE Trans Robot�,Sep,2020
+329,Hand closure model for planning top grasps with soft robotic hands,Int J Robot Res,Oct,2020
+330,An 88-milligram insect-scale autonomous crawling robot driven by a catalytic artificial muscle,Sci Robot,Aug,2020
+331,Untethered and ultrafast soft-bodied robots,Comms Mater,Sep,2020
+332,Light-steered locomotion of muscle-like hydrogel by self-coordinated shape change and friction modulation,Nat Commun,Oct,2020
+333,Self healable neuromorphic memtransistor elements for decentralized sensory signal processing in robotics,Nat Commun,Aug,2020
+334,Triboelectric nanogenerator sensors for soft robotics aiming at digital twin applications,Nat Commun,Oct,2020
+335,In-air fast response and high speed jumping and rolling of a light- driven hydrogel actuator,Nat Commun,Aug,2020
+336,On the motion/stiffness decoupling property of articulated soft robots with application to model-free torque iterative learning control,Int J Robot Res,Aug,2020
+337,Surface actuation and sensing of a tensegrity structure using robotic skins,Soft Robotics,Sep,2020
+338,Untethered feel?through haptics using 18?�m thick dielectric elastomer actuators,Adv Funct Mater,Oct,2020
+339,Understanding the interaction between older adults and soft service robots: Insights from robotics and the technology acceptance model,AIS Trans Hum-Comput Interact,Sep,2020
+340,3D-printed programmable tensegrity for soft robotics,Sci Robot,Aug,2020
+341,Integrating chemical fuels and artificial muscles for untethered microrobots,Sci Robot,Aug,2020
+342,Roboticizing fabric by integrating functional fibers,"Proc Natl Acad Sci U,S,A,",Aug,2020
+343,Reprogrammable shape morphing of magnetic soft machines,Sci Adv,Sep,2020
+344,New development of the dynamic modeling and the inverse dynamic analysis for flexible robot,Int J Adv Robot Syst,Aug,2020
+345,Minuscule RoBeetle turns liquid methanol into muscle power,IEEE Spectrum,Aug,2020
+346,Yale�s smart robotic fabric is as flexible as you need it to be,Engadget,Sep,2020
+347,Tubular robot maneuvers through the body,ASME,Oct,2020
+348,Soft robotic glove boosts workers� grip,ASME,Oct,2020
+349,Ultragentle manipulation of delicate structures using a soft robotic gripper,"Sci, Robot",Aug,2019
+350,Untethered soft robotic matter with passive control of shape morphing and propulsion,"Sci, Robot",Aug,2019
+351,Ferromagnetic soft continuum robots,"Sci, Robot",Aug,2019
+352,Soft mobile robot inspired by animal-like running motion,"Sci, Rep,",Oct,2019
+353,Multifunctional metallic backbones for origami robotics with strain sensing and wireless communication capabilities,"Sci, Robot",Aug,2019
+354,Materials tactile logic via innervated soft thermochromic elastomers,"Nat, Commun,",Sep,2019
+355,Programming curvilinear paths of flat inflatables,Proc Natl Acad Sci,Aug,2019
+356,Multi-stimuli-responsive programmable biomimetic actuator,"Nat, Commun,",Sep,2019
+357,Electrically controlled liquid crystal elastomer�based soft tubular actuator with multimodal actuation,"Sci, Adv,",Oct,2019
+358,Design and characterization of artificial muscles from wedge-like pneumatic soft modules,"Sens, Actuator A-Phys",Oct,2019
+359,An actuatable soft reservoir modulates host foreign body response,"Sci, Robot",Aug,2019
+360,A soft matter computer for soft robots,"Sci, Robot",Aug,2019
+361,Stretchable elastic synaptic transistors for neurologically integrated soft engineering systems,"Sci, Adv,",Oct,2019
+362,Stretchy wearable patch allows two-way communication with robots,IEEE Spectrum,Aug,2019
+363,Scientists made a robotic hand so soft it can handle a jelly fish,InterestingEngineering,Aug,2019
+364,Soft self-healing materials for robots that cannot be destroyed,IEEE Spectrum,Sep,2019
+365,Shipboard design and fabrication of custom 3D-printed soft robotic manipulators for the investigation of delicate deep-sea organisms,PLoS ONE,Aug,2018
+366,Thrust force characterization of free-swimming soft robotic jellyfish,"Bioinspiration, Biomim,",Sep,2018
+367,OmniSkins: Robotic skins that turn inanimate objects into multifunctional robots,Science Robotics,Sep,2018
+368,Online reconfiguration of a variable-stiffness actuator,"IEEE/ASME Trans, Mechatronics",Aug,2018
+369,A soft artificial muscle driven robot with reinforcement learning,"Sci, Rep,",Sep,2018
+370,A soft active origami robot,Extreme Mechanics Letters,Oct,2018
+371,Two-wavelength infrared responsive hydrogel actuators containing rare-earth photothermal conversion particles,"Sci, Rep,",Sep,2018
+372,Stretchable electronics on another level,"Nat, Electron,",Aug,2018
+373,Walking and running with passive compliance: Lessons from engineering: A live demonstration of the ATRIAS Biped,"IEEE Robot, Autom, Mag",Sep,2018
+374,Morphological intelligence counters foot slipping in the desert locust and dynamic robots,Proc Natl Acad Sci,Aug,2018
+375,How morphological development can guide evolution,"Sci, Rep,",Sep,2018
+376,Bioinspired 3D structures with programmable morphologies and motions,"Nat, Commun,",Sep,2018
+377,A quasi-static model for studying physical interaction between a soft robotic digit and a human finger,,,2018
+378,3D printed intelligent robotic fish helps underwater exploration,"3Ders,org",Aug,2018
+379,Soft multi-functional robots get really small,Robohub,Aug,2018
+380,Smarty pants: Robot trousers could keep the elderly mobile,BBC News,Sep,2018
+381,Flexible sensor encodes tactile stimuli into physiological signals,EEnews,Sep,2018
+382,A new spin for soft micro-actuators,Robohub,Sep,2018
+383,Graphene printing technique �silk screens� flexible electronics,IEEE Spectrum,Oct,2018
+384,Control space reduction and real-time accurate modelling of continuum manipulators using Ritz and Ritz-Galerkin method,IEEE RA-L,Aug,2017
+385,A biorobotic adhesive disc for underwater hitchhiking inspired by the remora suckerfish,Science Robotics,Sep,2017
+386,Dynamical analysis and development of a biologically inspired SMA caterpillar robot,"Bioinspir, Biomim,, Sept",,2017
+387,Inorganic semiconducting materials for flexible and stretchable electronics,"npj Flexible Electronics, Sept",,2017
+388,Wrin�Tac: Tactile sensing system with wrinkle�s morphological change,"IEEE Trans, Ind, Informat,, Oct",,2017
+389,New soft robots really suck: Vacuum-powered systems empower diverse capabilities,Science Robotics,Aug,2017
+390,Elastic inflatable actuators for soft robotic applications,"Adv, Mater,",Sep,2017
+391,Soft material for soft actuators,"Nat, Commun,, Sept",,2017
+392,Multiple-degrees-of-freedom dielectric elastomer actuators for soft printable hexapod robot,"Sens, Actuators A Phys,, Oct",,2017
+393,Self-healing soft pneumatic robots,Science Robotics,Aug,2017
+394,Artificial Manduca sexta forewings for flapping-wing micro aerial vehicles: how wing structure affects performance,"Bioinspir, Biomim,, Sept",,2017
+395,Variable stiffness actuators: Review on design and components,"IEEE/ASME Trans, Mechatronics",Oct,2016
+396,Verification of throwing operation by a manipulator with variable viscoelastic joints with straight-fiber-type artificial muscles and magnetorheological brakes,"Adv, Robotics",Aug,2016
+397,Human-like compliant locomotion: State of the art of robotic implementations,"Bioinspir, Biomim,",Aug,2016
+398,From biological cilia to artificial flow sensors: Biomimetic soft polymer nanosensors with high sensing performance,"Sci, Rep,",Sep,2016
+399,Stretchable materials for robust soft actuators towards assistive wearable devices,"Sci, Rep,",Sep,2016
+400,Interactions between dielectric elastomer actuators and soft bodies,Soft Robotics,Sep,2016
+401,A magnetic resonance compatible soft wearable robotic glove for hand rehabilitation and brain imagin g,IEEE Trans Neural Syst Rehabil Eng,Aug,2016
+402,Highly-stretchable 3D-architected mechanical metamaterial s,"Sci, Rep,",Sep,2016
+403,Stable propagation of mechanical signals in soft media using stored elastic energy,"Proc, Natl, Acad, Sci,",Aug,2016
+404,"Artificial metamorphosis: Evolutionary design of transforming, soft- bodied robots",Artificial Life,Sep,2016
+405,A biologically inspired soft robotic hand using chopsticks for grasping tasks,,,2016
+406,Robot octopus points the way to soft robotics with eight wiggly arms,IEEE Spectrum,Aug,2016
+407,Festo�s fantastical flying robots,IEEE Spectrum,Aug,2016
+408,"Pneumatic octopus is first soft, solo robot",BBC News,Aug,2016
+409,Alighting on soft robot rays,Nature Biotechnology: News & Views,Sep,2016
+410,Engineers work to improve that electric fee l,Chemical & Engineering News,Oct,2016
+411,Picking up a soft 3D object by �feeling� the grip,"Int, J, Robot, Res,, Sept",,2015
+412,A biomimetic underwater vehicle actuated by waves with ionic polymer�metal composite soft sensor,"Bioinspir, Biomim,, Sept",,2015
+413,On the energetics of quadrupedal running: predicting the metabolic cost of transport via a flexible-torso model,"Bioinspir, Biomim,, Sept",,2015
+414,Texture recognition and localization in amorphous robotic skin,"Bioinspir, Biomim,, Sept",,2015
+415,Rapid manufacture of novel variable impedance robots,"J, Mech, Robot,, Aug",,2015
+416,Amplifying the response of soft actuators by harnessing snap-through instabilities,"PNAS, Sept",,2015
+417,Modular soft mechatronic manipulator for minimally invasive surgery (MIS): overall architecture and development of a fully integrated soft module,"Meccanica, Sept",,2015
+418,Features in geometric receiver shapes modelling bat-like directivity patterns,"Bioinspir, Biomim,, Sept",,2015
+419,Robust real time material classification algorithm using soft three axis tactile sensor: Evaluation of the algorithm,,,2015
+420,Inflatable graspers let robots �handle with care�,"Gizmag,com, Sept",,2015
+421,Robot moves when squished,"Nature � Research Highlights, Oct",,2015
+422,Robotics and neuroscience,"Curr, Biol, Sept",,2014
+423,On the visual deformation servoing of compliant objects: Uncalibrated control methods and experiments,"Int, J, Robot Res,, Sept",,2014
+424,Periodic spring�mass running over uneven terrain through feedforward control of landing conditions,"Bioinspir, Biomim,",Aug,2014
+425,"A robotic crawler exploiting directional frictional interactions: experiments, numerics and derivation of a reduced model","Proc, R, Soc, A, Sept",,2014
+426,Active elastic dimers: Cells moving on rigid tracks,"Phys, Rev, E, Sept",,2014
+427,A simple running model with rolling contact and its role as a template for dynamic locomotion on a hexapod robot,"Bioinspir, Biomim,, Oct",,2014
+428,Sidewinding with minimal slip: Snake and robot ascent of sandy slopes,"Science, Oct",,2014
+429,Locomotion of microorganisms near a no-slip boundary in a viscoelastic fluid,"Phys, Rev, E, Oct",,2014
+430,The feel of MEMS barometers: Inexpensive and easily customized tactile array sensors,"IEEE Robot, Automat, Mag,, August",,2014
+431,Highly deformable liquid-state heterojunction sensors,"Nat, Comunn, Sept",,2014
+432,Soft machines made like Lego,Nature,Aug,2014
+433,Dielectric elastomer actuators for octopus inspired suction cups,"Bioinspir, Biomim,, Sept",,2014
+434,Soft robotic glove for combined assistance and at-home rehabilitation,"Robot, Auton, Syst,, Sept",,2014
+435,Human-robot skills transfer interfaces for a flexible surgical robot,"Comput, Meth, Prog, Bio,, Sept",,2014
+436,Exploiting short-term memory in soft body dynamics as a computational resource,"J, R, Soc, Interface, Sept",,2014
+437,"Three-dimensionally deformable, highly stretchable, permeable, durable and washable fabric circuit boards","Proc, R, Soc, A, Sept",,2014
+438,Conference Papers,,,2014
+439,"Graphene rubber bands: flexible, low-cost body sensors","KurzweilAI, August",,2014
+440,"A stretchable, light-up surface inspired by squid skin","Wired, Sept",,2014
+441,GelSight sensor measures deformation of flexible manipulator surface,"Robohub, Sept",,2014
+442,�Active clothing� for soft robots,"KurzweilAI, Sept",,2014
+443,Freaky soft robot walks through fire and ice,"IEEE Spectrum, Sept",,2014
+444,Soft robots,Current Biology,Aug,2013
+445,Soft-robotics [TC Spotlight],"IEEE Robot, Autom, Mag,, Sept",,2013
+446,A bio-inspired study on tidal energy extraction with flexible flapping wing,"Bioinspir, Biomim,",Aug,2013
+447,True-slime-mould-inspired hydrostatically coupled oscillator system exhibiting versatile behaviours,"Bioinspir, Biomim,",Aug,2013
+448,Animal biomechanics: a new silent partner in the control of motion,Current Biology,Aug,2013
+449,Reversible patterning and actuation of hydrogels by electrically assisted ionoprinting,"Nat Commun,",Aug,2013
+450,Carbon nanotubes on a spider silk scaffold,"Nat Commun,",Sep,2013
+451,"Popping, locking robots",Nature,Nov,2021
+452,Soft actuators for real-world applications,Nature,Nov,2021
+453,Soft Robots for Ocean Exploration and Offshore Operations: A Perspective,SoRo Journal,Dec,2021
+454,From Theoretical Work to Clinical Translation: Progress in Concentric Tube Robots,Annual Rev,Oct,2021
+455,A Data-Driven Review of Soft Robotics,Adv Intel Sys,Dec,2021
+456,From Bioinspiration to Computer Generation: Developments in Autonomous Soft Robot Design,Adv Intel Sys,Oct,2021
+457,A Simple Free-Fold Test to Measure Bending Stiffness of Slender Soft Actuators,IEEE RA-L,Oct,2021
+458,Thin Piezoelectric Mobile Robot Using Curved Tail Oscillation,IEEE Access,Oct,2021
+459,"Design, modeling and evaluation of a millimeter-scale SMA bending actuator with variable length",Sage Journals,Sep,2021
+460,Reprogrammable soft actuation and shape-shifting via tensile jamming,Science,Oct,2021
+461,"Legless soft robots capable of rapid, continuous, and steered jumping",Nature,Dec,2021
+462,Photodriven Self-Excited Hydrogel Oscillators,Physical Review,Jan,2022
+463,A Shapeshifting Ferrofluidic Robot,SoRo Journal,Dec,2021
+464,Performance Enhancement of Soft Nanotextured Thermopneumatic Actuator by Incorporating Silver Nanowires into Elastomer Body,SoRo Journal,Dec,2021
+465,An Air Recirculation System Based on Bioinspired Soft Re-Air Valve for Highly Efficient Pneumatic Actuation,SoRo Journal,Oct,2021
+466,Biohybrid Variable-Stiffness Soft Actuators that Self-Create Bone,Adv Mat,Dec,2021
+467,Cooling-Accelerated Nanowire-Nitinol Hybrid Muscle for Versatile Prosthetic Hand and Biomimetic Retractable Claw,Adv Func Mat,Dec,2021
+468,Reconfigurable shape-morphing flexible surfaces realized by individually addressable photoactuator arrays,Smart Mat Struct,Nov,2021
+469,Individual deformability compensation of soft hydraulic actuators through iterative learning-based neural network,Bioinsp Biomim,Nov,2021
+470,Bio-inspired soft bistable actuator with dual actuations,Smart Mat Struct,Oct,2021
+471,Pop-up cookie molds: self-folding elastomer sheets using thermal expansion of embedded air chambers,Smart Mat Struct,Oct,2021
+472,Thermo- and Mechanochromic Camouflage and Self-Healing in Biomimetic Soft Actuators Based on Liquid Crystal Elastomers,Angewandte Chemie,Dec,2021
+473,Stretchable Zn-Ion Hybrid Battery with Reconfigurable V2CTx and Ti3C2Tx MXene Electrodes as a Magnetically Actuated Soft Robot,Adv Energy Mat,Dec,2021
+474,Light-Fueled Climbing of Monolithic Torsional Soft Robots via Molecular Engineering,Adv Intel Sys,Oct,2021
+475,Vertebraic Soft Robotic Joint Design With Twisting and Antagonism,IEEE RA-L,Nov,2021
+476,Development of Topology Optimized Bending-Twisting Soft Finger,ASME J Mech Robot,Dec,2021
+477,Peeling in electroadhesion soft grippers,Extreme Mech Lett,Jan,2022
+478,A stretchable and strain-unperturbed pressure sensor for motion interference�free tactile monitoring on skins,Science,Nov,2021
+479,Miniaturized Circuitry for Capacitive Self-Sensing and Closed-Loop Control of Soft Electrostatic Transducers,SoRo Journal,Dec,2021
+480,Texture Discrimination with a Soft Biomimetic Finger Using a Flexible Neuromorphic Tactile Sensor Array That Provides Sensory Feedback,SoRo Journal,Oct,2021
+481,Flexible Electronics and Devices as Human-Machine Interfaces for Medical Robotics,Adv Mat,Dec,2021
+482,Curvature sensing of a soft robot based on conductive foam,PAMM,Dec,2021
+483,The Integration of Sensing and Actuating based on a Simple Design Fiber Actuator towards Intelligent Soft Robots,Adv Mat Tech,Nov,2021
+484,Compact reconfigurable kirigami,Physical Review,Oct,2021
+485,Increased Longevity and Pumping Performance of an Injection Molded Soft Total Artificial Heart,SoRo Journal,Oct,2021
+486,Freeform Liquid 3D Printing of Soft Functional Components for Soft Robotics,ACS Appl Mater Interface,Dec,2021
+487,Novel shape-lockable self-propelling robot with a helical mechanism and tactile sensing for inspecting the large intestine,Smart Mat Struct,Nov,2021
+488,Free swimming of a squid-inspired axisymmetric system through jet propulsion,Bioinp Biomim,Nov,2021
+489,A biomimetic fish finlet with a liquid metal soft sensor for proprioception and underwater sensing,Bioinsp Biomim,Oct,2021
+490,AUV Buoyancy Control With Hard and Soft Actuators,IEEE Cont Sys Lett,Dec,2021
+491,Sensor Embedded Soft Fingertip for Precise Manipulation and Softness Recognition,IEEE RA-L,Sep,2021
+492,Circular Shell Gripper for Handling Food Products,SoRo Journal,Oct,2021
+493,Modeling of a bio-inspired soft arm with semicircular cross section for underwater grasping,Smart Mat & Struct,Nov,2021
+494,Enhancing interaction performance of soft pneumatic-networks grippers by skeleton topology optimization,Science China Technological Sciences,Nov,2021
+495,Ultrasound-activated ciliary bands for microrobotic systems inspired by starfish,Nature,Nov,2021
+496,A Layer Jamming Soft Glove for Hand Tremor Suppression,IEEE Transactions,Dec,2021
+497,Guided Soft Actor Critic: A Guided Deep Reinforcement Learning Approach for Partially Observable Markov Decision Processes,IEEE Access,Nov,2021
+498,Delay Time Fractional-Order Model for the Soft Exoskeleton Glove Control,IEEE Transactions on Human- Machine Systems,Dec,2021
+499,Motion planning of a fish-like piezoelectric actuated robot using model-based predictive control,Sage Journals,Oct,2021
+500,Asymptotic softness of a laterally confined sheet in a pressurized chamber,Physical Review,Nov,2021
+501,Energy-Based Abstraction for Soft Robotic System Development,Adv Intel Sys,Oct,2021
+502,FEA-Based Inverse Kinematic Control: Hyperelastic Material Characterization of Self-Healing Soft Robots,IEEE RA-L,Dec,2021
+503,Extended Hamilton�s principle applied to geometrically exact Kirchhoff sliding rods,J Sound Vib,Jan,2022
+504,Morphological Computation in Plant Seeds for a New Generation of Self-Burial and Flying Soft Robots,Front Rob AI,Nov,2021
+505,Algorithm Uses Evolution To Design Robots,IEEE Spectrum,Dec,2021
+506,An Octopus-Inspired Soft Robot Uses Origami Principles,ASME,Nov,2021
+507,Stretchable Shape Sensing and Computation for General Shape-Changing Robots,"Annual Rev,",Oct,2024
+508,A Review of Methods and Applications for Improving Electric Driving Performance of Dielectric Elastomer,IEEE T-Dielectrics,Oct,2024
+509,Paleoinspired robotics as an experimental approach to the history of life,Science,Oct,2024
+510,How Do Combustions Actuate High-Speed Soft Robots?,SoRo Journal,Dec,2024
+511,"Comprehensive Analysis on Design, Working, and Manufacturing of Soft Robots",Wiley,Dec,2024
+512,Deep Learning Methods in Soft Robotics: Architectures and Applications,Wiley,Nov,2024
+513,Design and Performance Analysis of a Single-Port Bidirectional Soft Actuator and Its Integration Into a Versatile 3-Finger Robot Gripper,IEEE Access,Dec,2024
+514,Magnetic Wall-Climbing Wheels With Controllable Adhesion Reduction via Soft Magnetic Material,IEEE RA-L,Nov,2024
+515,Serially Coupled Self-Excited Pneumatic Actuator for Environment-Adaptive Steering Robot,IEEE RA-L,Oct,2024
+516,"Multiple-Connected Variable Outer Diameter Pigs Using Pneumatic Artificial Muscle for Inspecting Narrow and Complex Pipeline, Including Many Bend Pipes",IEEE RA-L,Oct,2024
+517,Magnetic kirigami dome metasheet with high deformability and stiffness for adaptive dynamic shape-shifting and multimodal manipulation,Science,Dec,2024
+518,Granular metamaterials with dynamic bond reconfiguration,Science,Dec,2024
+519,Heterogeneous multiple soft millirobots in three-dimensional lumens,Science,Nov,2024
+520,Self-healing actuatable electroluminescent fibres,Nature,Dec,2024
+521,A Novel Pneudraulic Actuation Method to Enhance Soft Robot Control,SoRo Journal,Dec,2024
+522,A Rolling Soft Robot Driven by Local Snap-Through Buckling,SoRo Journal,Dec,2024
+523,Design and Analytical Modeling of a Dumbbell-Shaped Balloon Anchoring Actuator for Safe and Efficient Locomotion Inside Gastrointestinal Tract,SoRo Journal,Dec,2024
+524,Perceptually Inspired C0-Continuity Haptic Shape Display with Trichamber Soft Actuators,SoRo Journal,Dec,2024
+525,A Reconfigurable Soft Linkage Robot via Internal �Virtual� Joints,SoRo Journal,Dec,2024
+526,Reconfigurable origami with variable stiffness joints for adaptive robotic locomotion and grasping,Royal Society,Oct,2024
+527,A Motion-Sensing Integrated Soft Robot with Triboelectric Nanogenerator for Pipeline Inspection,Wiley,Dec,2024
+528,Modular Stimuli-Responsive Valves for Pneumatic Soft Robots,Wiley,Dec,2024
+529,MXene Hydrogels for Soft Multifunctional Sensing: A Synthesis-Centric Review,Wiley,Nov,2024
+530,Hierarchically Reconfigurable Soft Robots with Reprogrammable Multimodal Actuation,Wiley,Nov,2024
+531,A Soft Mimic Robotic Arm Powered by Dielectric Elastomer Actuator,Wiley,Oct,2024
+532,Multipole Magnetic Tactile Sensor With Super-Resolution for 3-D Pose Estimation,IEEE TIM,Dec,2024
+533,Integrating Human-Like Impedance Regulation and Model-Based Approaches for Compliance Discrimination via Biomimetic Optical Tactile Sensors,IEEE T-RO,Dec,2024
+534,Analysis of Embroidered Strain Sensors in the Presence of Dynamic Forces,IEEE Sensors,Dec,2024
+535,Soft Self-Healing Damage Localization Sensor With Reduced Measuring Electrodes,IEEE Sensors,Dec,2024
+536,"A Body-Scale Robotic Skin Using Distributed Multimodal Sensing Modules: Design, Evaluation, and Application",IEEE T-RO,Nov,2024
+537,Fabrication and Characterization of a Soft and Stretchable Capacitive Strain Sensor for Hand Gesture Recognition,IEEE Sensors,Nov,2024
+538,Honeycomb-Inspired Metamaterial for Tactile Sensors With Variable Stiffness,IEEE Sensors,Nov,2024
+539,Embedded Force Sensor for Soft Robots With Deep Transformation Calibration,IEEE T-MRB,Oct,2024
+540,Stiffness-tunable velvet worm�inspired soft adhesive robot,Science,Nov,2024
+541,Sensing expectation enables simultaneous proprioception and contact detection in an intelligent soft continuum robot,Nature,Nov,2024
+542,Flexible Electrical Energy Storage Structure with Variable Stiffness for Soft Robotics and Wearable Electronics,SoRo Journal,Dec,2024
+543,Design of Compliant Components in Linkage-Driven Prosthetic Fingers: A Multi-Material Printing-Based Method,IEEE Access,Dec,2024
+544,Haptiknit: Distributed stiffness knitting for wearable haptics,Science,Dec,2024
+545,Activity-driven polymer knotting for macromolecular topology engineering,Science,Nov,2024
+546,"Printing Untethered Self-Reconfigurable, Self-Amputating Soft Robots from Recyclable Self-Healing Fibers",Wiley,Dec,2024
+547,Organic Ink Multi-Material 3D Printing of Sustainable Soft Systems,Wiley,Nov,2024
+548,Design and gait research of pneumatic soft quadruped robot,SAGE,Dec,2024
+549,Computational Design of Customized Vacuum-Driven Soft Grippers,IEEE RA-L,Dec,2024
+550,Autologous Variable Stiffness Soft Finger Based on Cross-Layer Jamming for Multimode Grasping,IEEE RA-L,Dec,2024
+551,PneuNet Based Hybrid Soft Gripper for Multi-Shape Object Handling,IEEE Access,Dec,2024
+552,BerryTwist: A Twisting-Tube Soft Robotic Gripper for Blackberry Harvesting,IEEE RA-L,Nov,2024
+553,A Rigid-Flexible-Soft Coupled Dexterous Hand With Sliding Tactile Perception and Feedback,IEEE RA-L,Nov,2024
+554,TacPalm: A Soft Gripper With a Biomimetic Optical Tactile Palm for Stable Precise Grasping,IEEE Sensors,Oct,2024
+555,MOGrip: Gripper for multiobject grasping in pick-and-place tasks using translational movements of fingers,Science,Dec,2024
+556,Toward Damage-Less Robotic Fragile Fruit Grasping: A Closed-Loop Force Control Method for Pneumatic-Driven Soft Gripper,SoRo Journal,Dec,2024
+557,A Soft-Rigid Gripper for Safe Handling and Transportation,Wiley,Dec,2024
+558,Optimizing the grasping behavior of a soft robot�s gripper,Wiley,Oct,2024
+559,Deformation Control and Thrust Analysis of a Flexible Fishtail With Muscle-Like Actuation,IEEE T-RO,Nov,2024
+560,Online Hydraulic Stiffness Modulation of a Soft Robotic Fish tail for Improved Thrust and Efficiency,SoRo Journal,Oct,2024
+561,"Design, Characterization, and Validation of a Variable Stiffness Prosthetic Elbow",IEEE T-RO,Nov,2024
+562,3D Printed Magnetic Bionic Robot Inspired by Octopus for Drug Transportation,SoRo Journal,Dec,2024
+563,Aloe Leaves-Inspired Multi-Stimuli Bidirectional Bending Self-Sensing Actuator for Smart Solar Panel,Wiley,Dec,2024
+564,Inverse Design of Snap-Actuated Jumping Robots Powered by Mechanics-Aided Machine Learning,IEEE RA-L,Dec,2024
+565,Soft Synergies: Model Order Reduction of Hybrid Soft-Rigid Robots via Optimal Strain Parameterization,IEEE T-RO,Dec,2024
+566,A Motion Planner for Growing Reconfigurable Inflated Beam Manipulators in Static Environments,IEEE RA-L,Dec,2024
+567,Encoding Desired Deformation Profiles in Endoscope-Like Soft Robots,IEEE T-MRB,Nov,2024
+568,Physics-Guided Deep Learning Enabled Surrogate Modeling for Pneumatic Soft Robots,IEEE RA-L,Nov,2024
+569,State Estimation by Joint Approach With Dynamic Modeling and Observer for Soft Actuator,IEEE RA-L,Oct,2024
+570,Analysis and Verification on Backstepping Control of Antagonistic Variable Stiffness Actuators,IEEE RA-L,Oct,2024
+571,Characterization and Modeling of Fabric-Based Pneumatic Actuators With Asymmetric Chambers for Soft Gloves,IEEE RA-L,Oct,2024
+572,A Koopman-based residual modeling approach for the control of a soft robot arm,Sage,Oct,2024
+573,An empirical model of soft bellows actuator,Nature,Nov,2024
+574,A Computational Approach for Internal Tendon Routing Channels in a Tendon-Driven Continuum Joint,SoRo Journal,Dec,2024
+575,Shape Reconstruction of Extensible Continuum Manipulator Based on Soft Sensors,SoRo Journal,Dec,2024
+576,A Novel Parameter Estimation Method for Pneumatic Soft Hand Control Applying Logarithmic Decrement for Pseudo-Rigid Body Modeling,Wiley,Dec,2024
+577,Clinical translation of wireless soft robotic medical devices,Nature,Mar,2024
+578,"Oceanic Challenges to Technological Solutions: A Review of Autonomous Underwater Vehicle Path Technologies in Biomimicry, Control, Navigation, and Sensing",IEEE Access,Mar,2024
+579,Pioneering healthcare with soft robotic devices: A review,Wiley,Feb,2024
+580,Artificial Muscles for Underwater Soft Robots: Materials and Their Interactions,Annual Reviews,Mar,2024
+581,SMA Wire Use in Hybrid Twisting and Bending/Extending Soft Fiber- Reinforced Actuators,MDPI,Mar,2024
+582,Development and Testing of Novel Soft Sleeve Actuators,IEEE Access,Mar,2024
+583,A Two-Chamber Soft Actuator With An Expansion Limit Line for Force Enhancement,IEEE RA-L,Mar,2024
+584,Towards Stiffness Tunable Programmable Matter,IEEE RA-L,Mar,2024
+585,A Bioinspired Single Actuator-Driven Soft Robot Capable of Multistrategy Locomotion,IEEE T-RO,Feb,2024
+586,Stiffness Control of Laminar Jammers With Fused Layers: A Discrete Approach,IEEE RA-L,Feb,2024
+587,A Soft Finger With Tensile Variable Stiffness Based on the Cross- Sliding Jamming Mechanism,IEEE RA-L,Feb,2024
+588,Waterbomb Origami Mechanism Pneumatic Manipulator Design Based on DH Parameter Method and Symmetric Folding Hypothesis,IEEE Access,Feb,2024
+589,Multimodal Soft Amphibious Robots Using Simple Plastic-Sheet- Reinforced Thin Pneumatic Actuators,IEEE T-RO,Feb,2024
+590,How Fast Can a Robotic Drummer Beat Using Dielectric Elastomer Actuators?,IEEE RA-L,Jan,2024
+591,"Design of Layer Jamming Liver Retractor for Surgical Access, Deployment, and Removal",IEEE T-MRB,Jan,2024
+592,SPIRO: A Compliant Spiral Spring Damper Joint Actuator With Energy- Based Sliding-Mode Controller,IEEE/ASME T-Mech,Jan,2024
+593,Encoded sewing soft textile robots,Science,Jan,2024
+594,Wireless flow-powered miniature robot capable of traversing tubular structures,Science,Mar,2024
+595,3D nanofabricated soft microrobots with super-compliant picoforce springs as onboard sensors and actuators,Nature,Jan,2024
+596,"High-stretch, tendon-driven, fiber-reinforced membrane soft actuators with multiple active degrees of freedom",Nature,Feb,2023
+597,3D-Printed Origami Actuators for a Multianimal-Inspired Soft Robot with Amphibious Locomotion and Tongue Hunting,SoRo Journal,Feb,2024
+598,4D Printed Self-Sustained Soft Crawling Machines Fueled by Constant Thermal Field,Wiley,Mar,2024
+599,Reconfigurable Transparent Variable-Stiffness Soft Robot for Underwater Operations,Wiley,Mar,2024
+600,Origami-Patterned Rigidification for Soft Robotic Bifurcation,Wiley,Mar,2024
+601,A Soft Robotic Morphing Wing for Unmanned Underwater Vehicles,Wiley,Mar,2024
+602,Edible Soft Actuators Based on Konjac Glucomannan for Underwater Operation,Wiley,Mar,2024
+603,UV Light-Mediated Hydrolytic Reaction to Develop Magnetic Hydrogel Actuators with Spatially Distributed Ferriferous Oxide Microparticles,Wiley,Mar,2024
+604,Soft Chemiresistive Sensing Shields Soft Robotic Actuators from Mechanical Degradation due to Critical Solvent Exposure,Wiley,Feb,2024
+605,Reprogrammable Magnetic Soft Actuators with Microfluidic Functional Modules via Pixel-Assembly,Wiley,Jan,2024
+606,Ultra-Stretchable and Environmentally Resilient Hydrogels Via Sugaring-Out Strategy for Soft Robotics Sensing,"Adv, Materials",Feb,2024
+607,Soft Robotic Finger Based on Double-Layer Liquid-Crystal Elastomer With Built-In Grid Structure Pressure Sensor,IEEE Sensors,Mar,2024
+608,Soft-Tipped Sensor With Compliance Control for Elasticity Sensing and Palpation,IEEE T-RO,Feb,2024
+609,Incipient Slip Detection by Vibration Injection Into Soft Sensor,IEEE RA-L,Feb,2024
+610,ELTac: A Vision-Based Electroluminescent Tactile Sensing Skin for Force Localization and Magnitude Estimation,IEEE Sensors,Jan,2024
+611,Computational design of ultra-robust strain sensors for soft robot perception and autonomy,Nature,Feb,2024
+612,Haptic Localization with a Soft Whisker from Moment Readings at the Base,SoRo Journal,Jan,2024
+613,Fabrication Process for Twisting Artificial Muscles by Utilizing Braiding Technology and Water-Soluble Fibers,IEEE RA-L,Jan,2024
+614,"Enhancing the Versatility and Performance of Soft Robotic Grippers, Hands, and Crawling Robots Through Three-Dimensional-Printed Multifunctional Buckling Joints",SoRo Journal,Mar,2024
+615,Utilizing Bioinspired Soft Modular Appendages for Grasping and Locomotion in Multi-Legged Robots on Ground and Underwater,IEEE RA-L,Mar,2024
+616,"Stenus-inspired, swift, and agile untethered insect-scale soft propulsors",Nature,Feb,2024
+617,Multimodal Soft Robotic Actuation and Locomotion,Wiley,Feb,2024
+618,Design and Implementation of a Magnetic Coupling Based Segmented Bend Angle Sensor for a Soft Robotic Gripper,IEEE TIM,Mar,2024
+619,Intersection-Free Robot Manipulation With Soft-Rigid Coupled Incremental Potential Contact,IEEE RA-L,Mar,2024
+620,A Magnetic Helical Miniature Robot With Soft Magnetic-Controlled Gripper,IEEE RA-L,Feb,2024
+621,Customizable Power Grasps From Uncrewed Aerial Vehicles via a Soft Wrapping Gripper,IEEE/ASME T-Mech,Feb,2024
+622,Impact of Physical Parameters and Vision Data on Deep Learning-Based Grip Force Estimation for Fluidic Origami Soft Grippers,IEEE RA-L,Jan,2024
+623,Inchworm-Inspired Soft Robot With Controllable Locomotion Based on Self-Sensing of Deformation,IEEE RA-L,Mar,2024
+624,A growing soft robot with climbing plant�inspired adaptive behaviors for navigation in unstructured environments,Science,Jan,2024
+625,Fast-Swimming Soft Robotic Fish Actuated by Bionic Muscle,SoRo Journal,Mar,2024
+626,Soft Robots with Plant-Inspired Gravitropism Based on Fluidic Liquid Metal,Wiley,Mar,2024
+627,Magnetically Controlled Millipede Inspired Soft Robot for Releasing Drugs on Target Area in Stomach,IEEE RA-L,Mar,2024
+628,Design and Hierarchical Control of a Homocentric Variable-Stiffness Magnetic Catheter for Multiarm Robotic Ultrasound-Assisted Coronary Intervention,IEEE T-RO,Mar,2024
+629,Deep-Learning-Based Force Sensing Method for a Flexible Endovascular Surgery Robot,IEEE TIM,Mar,2024
+630,A Frequency-Modulated Tripedal Soft Magnetic Robot With Diverse Motion Modalities for Ingestible Applications,IEEE RA-L,Jan,2024
+631,Multiple Hand Posture Rehabilitation System Using Vision-Based Intention Detection and Soft-Robotic Glove,IEEE T-II,Jan,2024
+632,Ajisai: A Structure That Matches the Relationship Between Force and Color to Human Perception,IEEE RA-L,Mar,2024
+633,From Skin Movement to Wearable Robotics: The Case of Robotic Gloves,SoRo Journal,Jan,2024
+634,Fast-Response Variable-Stiffness Magnetic Catheters for Minimally Invasive Surgery,Wiley,Jan,2024
+635,Multistable States and Snap-Through Instabilities in an Interconnected Dielectric Elastomer Actuators System,Appl Mechanics,Jan,2024
+636,A Variable Stiffness Anthropomorphic Finger Through Embodied Intelligence Design,IEEE RA-L,Feb,2024
+637,Design and Modeling of a Multi-DoF Magnetic Continuum Robot With Diverse Deformation Modes,IEEE RA-L,Mar,2024
+638,Modeling of a Six-Bar Tensegrity Robot Using the Port-Hamiltonian Framework and Experimental Validation,IEEE RA-L,Mar,2024
+639,Input Decoupling of Lagrangian Systems via Coordinate Transformation: General Characterization and Its Application to Soft Robotics,IEEE T-RO,Feb,2024
+640,Data-Driven Momentum Observers With Physically Consistent Gaussian Processes,IEEE T-RO,Feb,2024
+641,DisMech: A Discrete Differential Geometry-Based Physical Simulator for Soft Robots and Structures,IEEE RA-L,Feb,2024
+642,Kinematics-Informed Neural Networks: Enhancing Generalization Performance of Soft Robot Model Identification,IEEE RA-L,Feb,2024
+643,Unified Shape and External Load State Estimation for Continuum Robots,IEEE T-RO,Feb,2024
+644,Dynamics and Control of Soft Robots With Implicit Strain Parametrization,IEEE RA-L,Jan,2024
+645,"Sorotoki: A Matlab Toolkit for Design, Modeling, and Control of Soft Robots",IEEE Access,Jan,2024
+646,Position and Orientation Control for Hyperelastic Multisegment Continuum Robots,IEEE/ASME T-Mech,Jan,2024
+647,"Design, Modeling, and Control of Soft Syringes Enabling Two Pumping Modes for Pneumatic Robot Applications",IEEE/ASME T-Mech,Jan,2024
+648,Safe Supervisory Control of Soft Robot Actuators,SoRo Journal,Feb,2024
+649,Learning-Based Control for Soft Robot�Environment Interaction with Force/Position Tracking Capability,SoRo Journal,Feb,2024
+650,Diversity-Based Topology Optimization of Soft Robotic Grippers,Wiley,Jan,2024
+651,A world of soft robotics,Harvard,Feb,2024
+652,"A variable compliance, soft gripper","Auton Robot,",Jan,2014
+653,A dragline-forming mobile robot inspired by spiders,"Bioinspir, Biomim,",Jan,2014
+654,Detection and prevention of slip using sensors with different properties embedded in elastic artificial skin on the basis of previous experience,"Robot Auton Syst,",Jan,2014
+655,Design and control of a bio-inspired soft wearable robotic device for ankle�foot rehabilitation,"Bioinspir, Biomim,",Jan,2014
+656,Growing and evolving soft robots,Artificial Life,,2014
+657,A bio-inspired multi degree of freedom actuator based on a novel cylindrical ionic polymer�metal composite material,"Robot Auton Syst,",Jan,2014
+658,Active sensing system with in situ adjustable sensor morphology,PLoS ONE,Dec,2013
+659,Untethered micro-robotic coding of three-dimensional material composition,"Nat Commun,",Jan,2014
+660,Fractal design concepts for stretchable electronics,"Nat Commun,",Feb,2014
+661,Generalized mathematical representation of the soft tissue artefact,"J, Biomech,",Jan,2014
+662,Structure and mechanical properties of Octopus vulgaris sucker,"J, R, Soc, Interface",Feb,2014
+663,Soft cell simulator: A tool to study soft multi-cellular robots,IEEE ROBIO,Dec,2013
+664,Octopus suckers have groovy secret for strength,Scientific American,Dec,2013
+665,Rubbery robot fingers play piano faster than a human,New Scientist,Jan,2014
+666,Spiderman robot spins draglines to cross open space,"Phys,org",Jan,2014
+667,Template for robust soft-body crawling with reflex-triggered gripping,"Bioinspir, Biomim,, Feb",,2015
+668,Force measurements of flexible tandem wings in hovering and forward flights,"Bioinspir, Biomim,, Feb",,2015
+669,Tactile surface classification for limbed robots using a pressure sensitive robot skin,"Bioinspir, Biomim,, Feb",,2015
+670,Ultrafast all-Polymer electrically tunable silicone lenses,"Adv, Funct, Mater,, Jan",,2015
+671,XPED2: A passive exoskeleton with artificial tendons,"IEEE Robot, Automat, Mag,, Dec",,2014
+672,A would-be nervous system made from a slime mold,"Artif, Life, Dec",,2014
+673,Electronic dura mater for long-term multimodal neural interfaces,"Science, Jan",,2015
+674,Robot looks like a fish to ride with marine life,"Phys,org, Jan",,2015
+675,These inflatable pouch motors will make building robots as easy as using stickers,"IEEE Spectrum, Jan",,2015
+676,Miniaturized swimming soft robot with complex movement actuated and controlled by remote light signals,"Scientific Report, Dec",,2015
+677,A soft jellyfish robot driven by a dielectric elastomer actuator,"IEEE RA-L, Jan",,2016
+678,"Hydrodynamics of a robotic fish tail: effects of the caudal peduncle, fin ray motions and the flow speed","Bioinspir, Biomim,, Feb",,2016
+679,Bi-directional series-parallel elastic actuator and overlap of the actuation layers,"Bioinspir, Biomim,, Jan",,2016
+680,Simulation of networked dielectric elastomer balloon actuators,"IEEE RA-L, Jan",,2016
+681,Soft robotic grippers for biological sampling on deep reefs,"Soft Robotics, Jan",,2016
+682,Material witness: Correcting errors in self-assembly,"Nature Materials, Dec",,2015
+683,Simultaneous covalent and noncovalent hybrid polymerizations,"Science, Jan",,2016
+684,When wearable electronics devices disappear into clothes,"KurzweilAI, Dec",,2015
+685,Working the angles,"ASME,org, Dec",,2015
+686,"A flexible, transparent pressure sensor","KurzweilAI, Jan",,2016
+687,"Hybrid polymer shows promise in self-repairing materials, smart drug delivery, and artificial muscles","Gizmag,com, Jan",,2016
+688,Shocking! �Electric eel� fibers could power wearable tech,"LiveScience,com, Jan",,2016
+689,Smart wearable sensor takes sweat-monitoring to next level,"IEEE Spectrum, Jan",,2016
+690,Squishy robot fingers gently tickle deep sea critters,"IEEE Spectrum, Jan",,2016
+691,Let�s bring Rosie home: 5 challenges we need to solve for home robots,"IEEE Spectrum, Jan",,2016
+692,"Meet the soft, cuddly robots of the future","Nature � News, Feb",,2016
+693,Mechanical chameleon changes colors on the fly,"Discover Magazine, Feb",,2016
+694,General dynamic algorithm for floating base tree structure robots with flexible joints and links,"J, Mechanisms Robotics",Jan,2017
+695,Poincar�s equations for cosserat media: Application to shells,"J, Nonlinear Sci,, Feb",,2017
+696,Skinning a robot: Design methodologies for large-scale robot skin,"IEEE Robot, Autom, Mag,",Dec,2016
+697,Bio-inspired annelid robot: a dielectric elastomer actuated soft robot,"Bioinspir, Biomim,",Jan,2017
+698,Hydraulic hydrogel actuators and robots optically and sonically camouflaged in water,"Nature Commun,",Feb,2017
+699,A magnetic soft endoscopic capsule-inflated intragastric balloon for weight management,"Sci, Rep,",Dec,2016
+700,Soft robotic sleeve supports heart function,"Sci, Transl, Med,",Jan,2017
+701,Learning autonomous behaviours for the body of a flexible surgical robot,Autonomous Robot,Feb,2017
+702,Passive swimming in viscous oscillatory flows,"Phys, Rev, E",Dec,2016
+703,A bio-inspired electro-active velcro mechanism using Shape Memory Alloy for wearable and stiffness controllable layers,,,2016
+704,Stretchy robotic suit reduces energy used to walk by 23 percent,New Scientist,Jan,2017
+705,"A transparent, self-healing, highly stretchable conductive material",KurzweilAI,Jan,2017
+706,Soft robot hugs your heart to keep it pumping,IEEE Spectrum,Jan,2017
+707,"Hydraulic muscle makes for tougher, stronger disaster-site robots",New Atlas,Jan,2017
+708,Watch a squishy robot oh-so-gently catch a fish,"Popular Science, Feb",,2017
+709,Cutting the cord � editorial,"Nature Electronics, Jan",,2018
+710,Controllable and reversible tuning of material rigidity for robot applications,"Materials Today, Feb",,2018
+711,"Topology optimized design, fabrication and characterization of a soft cable-driven gripper","IEEE RA-L, Jan",,2018
+712,Inversion of friction anisotropy in a bio-inspired asymmetrically structured surface,"J, Royal Soc, Interface, Jan",,2018
+713,Locomotion of a bioinspired flyer powered by one pair of pitching foils,"Phys, Rev, Fluids",Jan,2018
+714,Directly printable flexible strain sensors for bending and contact feedback of soft actuators,"Front, Robot, AI, Feb",,2018
+715,Soft humanoid motor learning,"Science Robotics, Dec",,2017
+716,Hydraulically amplified self-healing electrostatic actuators with muscle-like performance,Science,Jan,2018
+717,Energetic analysis and optimization of a MACCEPA actuator in an ankle prosthesis,"Autonomous Robots, Jan",,2018
+718,Micro 3D printing of a temperature-responsive hydrogel using projection micro-stereolithography,"Scie, Rep,",Jan,2018
+719,Biomechanical mechanisms underlying exosuit-induced improvements in walking economy after stroke,"Journal of Experimental Biology, Jan",,2018
+720,Infrared actuation-induced simultaneous reconfiguration of surface color and morphology for soft robotics,"Sci, Rep,, Dec",,2017
+721,Multi-armed droplets as shape-changing protocells,"Artif, Life, Jan",,2018
+722,Soft robotic muscle may lead to lifelike robots,"ASME, Dec",,2017
+723,Flexible system-on-chip may expand IoT reach,"Electronics 360, Dec",,2017
+724,An overview on principles for energy efficient robot locomotion,"Front, Robot, AI",Dec,2018
+725,Energy autonomous electronic skin,npj Flexible Electronics,Jan,2019
+726,Elasticity versus hyperelasticity considerations in quasistatic modeling of a soft finger-like robotic appendage for real-time position and force estimation,Soft Robotics,Jan,2019
+727,Soft wall-climbing robots,Science Robotics,Dec,2018
+728,Model-based compensation of rate-dependent hysteresis in a piezoresistive strain sensor,"IEEE Trans, Ind, Electron,",Jan,2019
+729,Electro-ribbon actuators and electro-origami robots,Science Robotics,Dec,2018
+730,A variable-stiffness tendril-like soft robot based on reversible osmotic actuation,"Nat, Comun,",Jan,2019
+731,"Fast-response, stiffness-tunable soft actuator by hybrid multimaterial 3D printing","Adv, Funct, Mater,",Jan,2019
+732,Biohybrid valveless pump-bot powered by engineered skeletal muscle,Proc Natl Acad Sci,Jan,2019
+733,High-precision tracking control of a soft dielectric elastomer actuator with inverse viscoelastic hysteresis compensation,"IEEE/ASME Trans, Mechatronics",Feb,2019
+734,The challenges and achievements of experimental implementation of an active transfemoral prosthesis based on biological quasi-stiffness: The CYBERLEGs beta-prosthesis,"Front, Neurorobotics",Dec,2018
+735,Comparison of the human-exosuit interaction using ankle moment and ankle positive power inspired walking assistance,"J, Biomech",Jan,2019
+736,Bifurcation-based embodied logic and autonomous actuation,"Nat, Comun,",Jan,2019
+737,Micro-robots powered by chemistry grasp and creep,"Nat, Highlights",Dec,2018
+738,"Bots, britches, and bees",GatesNotes,Jan,2019
+739,"3D printed, magnetic mesh �robots� float, bend and grab on demand",NewAtlas,Jan,2019
+740,A vision for future bioinspired and biohybrid robots,"Sci, Robot",Jan,2020
+741,On an improved state parametrization for soft robots with piecewise constant curvature and its use in model based control,IEEE RA-L,Jan,2020
+742,TMTDyn: A Matlab package for modeling and control of hybrid rigid� continuum robots based on discretized lumped system and reduced order models,"Int, J, Robot, Res,",Jan,2020
+743,"A soft gripper with programmable effective length, tactile and curvature sensory feedback","Smart, Mater, Struct,",Jan,2020
+744,An autonomous untethered fast soft robotic insect driven by low- voltage dielectric elastomer actuators,"Sci, Robot,",Dec,2019
+745,A lightweight simulation model for soft robot�s locomotion and its application to trajectory optimization,IEEE RA-L,Jan,2020
+746,Future trends in instrumentation and measurement: Indirect sensing in soft robots using observers/filters,"IEEE Instru, Meas, Mag,",Feb,2020
+747,Stiffness imaging with a continuum appendage: Real-time shape and tip force estimation from base load readings,IEEE RA-L,Feb,2020
+748,Autonomic perspiration in 3D-printed hydrogel actuators,"Sci, Robot",Jan,2020
+749,"Tunable, flexible, and resilient robots driven by an electrostatic actuator",Advance Intelligent Systems,Jan,2020
+750,Improving the performance of industrial machines with variable stiffness springs,"Mech, Based Des, Struc,",Jan,2020
+751,Bio-inspired active skins for surface morphing,"Sci, Rep,",Dec,2019
+752,A scalable pipeline for designing reconfigurable organisms,"Proc, Natl, Acad, Sci,",Jan,2020
+753,Complex multiphase organohydrogels with programmable mechanics toward adaptive soft-matter machines,"Sci, Adv,",Jan,2020
+754,Reconfigurable and programmable origami dielectric elastomer actuators with 3D shape morphing and emissive architectures,"NPG Asia Mater,",Dec,2019
+755,Smash this robot,IEEE Spectrum,Dec,2019
+756,First �living robots� designed on supercomputer,The Guardian,Jan,2020
+757,"Meet Xenobot, an eerie new kind of programmable organism","Wired,com",Jan,2020
+758,Soft robot fingers sweat to cool themselves,IEEE Spectrum,Jan,2020
+759,Wearable soft technologies for haptic sensing and feedback,Adv Mater,Dec,2020
+760,Squid-inspired robots perform swimmingly,Sci Robot,Jan,2021
+761,Self-powered electro-tactile system for virtual tactile experiences,Sci Adv,Jan,2021
+762,Tactile sensing biohybrid soft E-skin based on bioimpedance using aloe vera pulp tissues,Sci Rep,Feb,2021
+763,Design and testing of a soft parallel robot based on pneumatic artificial muscles for wrist rehabilitation,Sci Rep,Jan,2021
+764,Electro-pneumatic pumps for soft robotics,Sci Robot,Feb,2021
+765,Textile technology for soft robotic and autonomous garments,Adv Funct Mater,Dec,2020
+766,Kinematic modeling and control of variable curvature soft continuum robots,IEEE/ASME Trans Mechatronics,Jan,2021
+767,"Aquatic robot inspired by sea creatures walks, rolls, transports cargo",Eurekalert,Dec,2020
+768,A robot arm toting a Venus flytrap can grab delicate objects,ScienceNews,Jan,2021
+769,Robotic News: What�s trending in February 2021 � Soft Skills,Robotshop,Feb,2021
+770,Soft legged robot uses pneumatic circuitry to walk like a turtle,IEEE Spectrum,Feb,2021
+771,Smart materials for four-dimensional printing: An overview,Sage,Aug,2022
+772,"Roadmap on soft robotics: multifunctionality, adaptability and growth without borders",Multifunc Mater,Aug,2022
+773,A fluidic relaxation oscillator for reprogrammable sequential actuation in soft robots,Mater,Jul,2022
+774,Design of Wearable Hand Rehabilitation Glove With Bionic Fiber- Reinforced Actuator,IEEE Journal,Aug,2022
+775,RoboHeart: A Bi-Directional Zipping Actuator,IEEE RA-L,Jul,2022
+776,Soft Fluidic Actuator for Locomotion in Multi-Phase Environments,IEEE RA-L,Jul,2022
+777,Reconfigurable Self-Sensing Pneumatic Artificial Muscle With Locking Ability Based on Modular Multi-Chamber Soft Actuator,IEEE RA-L,Jul,2022
+778,Programmed shape-morphing into complex target shapes using architected dielectric elastomer actuators,Science,Jul,2022
+779,Compact Multilayer Extension Actuators for Reconfigurable Soft Robots,SoRo Journal,Aug,2022
+780,Buckling suppression of a thin-walled Miura-origami patterned tube,PLoS One,Jul,2022
+781,High-Gain Microfluidic Amplifiers: The Bridge between Microfluidic Controllers and Fluidic Soft Actuators,Adv Intel Sys,Sep,2022
+782,Wireless Miniature Magnetic Phase-Change Soft Actuators,Adv Mater,Aug,2022
+783,The Fabrication and Applications of Bioinspired Hydrogel Actuators,"Smart Stimuli-Responsive Polymers, Films, and Gels",Aug,2022
+784,Programmable soft valves for digital and analog control,PNAS,Sep,2022
+785,A Spring-Based Inductive Sensor for Soft and Flexible Robots,IEEE Sensors,Aug,2022
+786,Vision-Based Sensing for Electrically-Driven Soft Actuators,IEEE RA-L,Aug,2022
+787,Transferable Shape Estimation of Soft Pneumatic Actuators Based on Active Vibroacoustic Sensing,IEEE RA-L,Jul,2022
+788,Liquid-metal micro-networks with strain-induced conductivity for soft electronics and robotic skin,Nature,Sep,2022
+789,Speckle-based high-resolution multimodal soft sensing,Nature,Jul,2022
+790,Whisker Sensing by Force and Moment Measurements at the Whisker Base,SoRo Journal,Aug,2022
+791,Hydrogel-Based Flexible Electronics,Adv Mater,Aug,2022
+792,A wearable textile-based pneumatic energy harvesting system for assistive robotics,Sci Adv,Aug,2022
+793,Integrated 3D printing of flexible electroluminescent devices and soft robots,Nature,Aug,2022
+794,A Method for 3D Printing and Rapid Prototyping of Fieldable Untethered Soft Robots,SoRo Journal,Jul,2022
+795,Locomotion via Active Suction in a Sea Star-Inspired Soft Robot,IEEE RA-L,Jul,2022
+796,Adaptive wireless millirobotic locomotion into distal vasculature,Nature,Aug,2022
+797,Design and Closed-Loop Motion Planning of an Untethered Swimming Soft Robot Using 2D Discrete Elastic Rods Simulations,Adv Intel Sys,Sep,2022
+798,A Two-Finger Soft Gripper Based on Bistable Mechanism,IEEE RA-L,Aug,2022
+799,Optimizing Out-of-Plane Stiffness for Soft Grippers,IEEE RA-L,Jul,2022
+800,GSG: A Granary-Shaped Soft Gripper With Mechanical Sensing via Snap- Through Structure,IEEE RA-L,Jul,2022
+801,Soft Microdenticles on Artificial Octopus Sucker Enable Extraordinary Adaptability and Wet Adhesion on Diverse Nonflat Surfaces,Adv Sci,Aug,2022
+802,Octopus-inspired adhesive skins for intelligent and rapidly switchable underwater adhesion,Science,Jul,2022
+803,"Design, Analysis, and Real-Time Simulation of a 3D Soft Robotic Snake",SoRo Journal,Aug,2022
+804,Biomechanical and Physiological Evaluation of Biologically-Inspired Hip Assistance With Belt-Type Soft Exosuits,IEEE Transactions,Sep,2022
+805,SOPHIE: Soft and Flexible Aerial Vehicle for Physical Interaction With the Environment,IEEE RA-L,Aug,2022
+806,Magnetic Soft Continuum Robots With Braided Reinforcement,IEEE RA-L,Jul,2022
+807,Magnetic soft robotic bladder for assisted urination,Science,Aug,2022
+808,SpringWorm: A Soft Crawling Robot with a Large-Range Omnidirectional Deformable Rectangular Spring for Control Rod Drive Mechanism Inspection,SoRo Journal,Aug,2022
+809,Aerial additive manufacturing with multiple autonomous robots,Nature,Sep,2022
+810,On the Use of Magnets to Robustify the Motion Control of Soft Hands,IEEE RA-L,Sep,2022
+811,Research on the Inverse Kinematics Prediction of a Soft Biomimetic Actuator via BP Neural Network,IEEE Access,Jul,2022
+812,Using R-Functions to Control the Shape of Soft Robots,IEEE RA-L,Jul,2022
+813,Shape Estimation of a 3D Printed Soft Sensor Using Multi-Hypothesis Extended Kalman Filter,IEEE RA-L,Jul,2022
+814,System norm regularization methods for Koopman operator approximation,Proc Royal Soc A,Sep,2022
+815,Proxy-based sliding-mode tracking control of dielectric elastomer actuators through eliminating rate-dependent viscoelasticity,Smart Mater,Sep,2022
+816,A concise guide to modelling the physics of embodied intelligence in soft robotics,Nature,Aug,2022
+817,Tactile Resilience of Sensory Whisker by Adaptive Morpholog y,IEEE Access,Sep,2022
+818,3D printing drones work like bees to build and repair structures while flying,Imperial College London,Sep,2022
+819,"Berry Picking Today, Robotic Surgery Tomorrow",ASME,Aug,2022
+820,Chemically fueling new microrobot abilities,Science,Sep,2023
+821,Mechanical metamaterials and /beyond/,Nature,Sep,2023
+822,Engineering Magnetic Soft and Reconfigurable Robots,SoRo Journal,Aug,2023
+823,Soft Robotics in Waste Management,"Book Chapter, Wiley",Sep,2023
+824,Materializing Autonomy in Soft Robots across Scales,Adv Intel Sys,Aug,2023
+825,"A Review on High-Frequency Dielectric Elastomer Actuators: Materials, Dynamics, and Applications",Adv Intel Sys,Jul,2023
+826,Design and Validation of a High DOF Origami Inspired Soft Actuated Assistive Exoskeleton Arm and Spine,IEEE T-MRB,Sep,2023
+827,A Small Steerable Tip Based on Dielectric Elastomer Actuators,IEEE RA-L,Aug,2023
+828,Programmable Soft Robotics Actuator With Pneumatic Networks (PneuNets),IEEE Sensors Journal,Jul,2023
+829,Increasing the payload capacity of soft robot arms by localized stiffening,Science,Aug,2023
+830,Elastocapillary rolling transfer weaves soft materials to spatial structures,Science,Aug,2023
+831,Pneumatic cells toward absolute Gaussian morphing,Science,Aug,2023
+832,Magnetic Janus origami robot for cross-scale droplet omni- manipulation,Nature,Sep,2023
+833,Omnidirectional compliance on cross-linked actuator coordination enables simultaneous multi-functions of soft modular robots,Nature,Jul,2023
+834,Lightweight Pneumatically Elastic Backbone Structure with Modular Construction and Nonlinear Interaction for Soft Actuators,SoRo Journal,Aug,2023
+835,Soft Robotic Finger with Energy-Coupled Quadrastability,SoRo Journal,Aug,2023
+836,Overtwisting and Coiling Highly Enhance Strain Generation of Twisted String Actuators,SoRo Journal,Aug,2023
+837,Synergistical Mechanical Design and Function Integration for Insect- Scale On-Demand Configurable Multifunctional Soft Magnetic Robots,SoRo Journal,Jul,2023
+838,Nanocellulose-based soft actuators and their applications,J Polymer Sci,Aug,2023
+839,Reprogrammable Magnetic Soft Robots Based on Low Melting Alloys,Adv Intell Sys,Jul,2023
+840,Bioinspired design of stimuli-responsive artificial muscles with multiple actuation modes,Smart Mater Struct,Jul,2023
+841,"Shape memory polymers enable versatile magneto-active structure with 4D printability, variable stiffness, shape-morphing and effective grasping",Smart Mater Struct,Jul,2023
+842,Self-Closing and Self-Healing Multi-Material Suction Cups for Energy-Efficient Vacuum Grippers,Adv Intel Sys,Aug,2023
+843,Fluidically programmed wearable haptic textiles,Device,Sep,2023
+844,An RNN-LSTM Enhanced Compact and Affordable Micro Force Sensing System for Interventional Continuum Robots With Interchangeable End- Effector Instruments,IEEE TIM,Jul,2023
+845,Shape Self-Sensing With Mutual Inductance Sensor Array,IEEE Sensors Journal,Sep,2023
+846,Active Optical Sensor Microrobot Equipped With Multi-DoF Gripper Arm Based on Kinetic Electronics,IEEE Sensors Letters,Aug,2023
+847,High-stretchability and low-hysteresis strain sensors using origami- inspired 3D mesostructures,Science,Aug,2023
+848,Water-Insensitive Self-Healing Materials: From Network Structure Design to Advanced Soft Electronics,Adv Func Mater,Sep,2023
+849,Design and Applications of Soft Actuators Based on Digital Light Processing (DLP) 3D Printing,IEEE Access,Aug,2023
+850,Tunable Stiffness Caudal Peduncle Leads to Higher Swimming Speed Without Extra Energy,IEEE RA-L,Aug,2023
+851,Wireless Millimeter-Size Soft Climbing Robots With Omnidirectional Steerability on Tissue Surfaces,IEEE RA-L,Aug,2023
+852,Simple and Fast Locomotion of Vibrating Asymmetric Soft Robots,SoRo Journal,Jul,2023
+853,A Multidirectional Locomotion Light-Driven Soft Crawling Robot,Adv Func Mater,Jul,2023
+854,Vitrimeric shape memory polymer-based fingertips for adaptive grasping,Front Robot AI,Jul,2023
+855,Optimal Design of a Highly Self-Adaptive Gripper with Multi-Phalange Compliant Fingers for Grasping Irregularly Shaped Objects,IEEE RA-L,Sep,2023
+856,Grasping through dynamic weaving with entangled closed loops,Nature,Aug,2023
+857,A Variable Stiffness Soft Gripper Based on Rotational Layer Jamming,SoRo Journal,Aug,2023
+858,"A Tensegrity Joint for Low-Inertia, Compact, and Compliant Soft Manipulators",Adv Intel Sys,Jul,2023
+859,Jelly-Z: swimming performance and analysis of twisted and coiled polymer (TCP) actuated jellyfish soft robot,Nature,Jul,2023
+860,Bioinspired Soft Spine Enables Small-Scale Robotic Rat to Conquer Challenging Environments,SoRo Journal,Jul,2023
+861,Electrically Zipping Bending Actuators for Prosthetic Fingers,IEEE RA-L,Sep,2023
+862,A Novel Soft Glove Utilizing Honeycomb Pneumatic Actuators (HPAs) for Assisting Activities of Daily Living,IEEE T-NSRE,Aug,2023
+863,A Handheld Hydraulic Soft Robotic Device With Bidirectional Bending End-Effector for Minimally Invasive Surgery,IEEE T-MRB,Jul,2023
+864,Magnetically assisted soft milli-tools for occluded lumen morphology detection,Science,Aug,2023
+865,The Kinematics of Constant Curvature Continuum Robots Through Three Segments,IEEE RA-L,Sep,2023
+866,Learning-Based Object Recognition via a Eutectogel Electronic Skin Enabled Soft Robotic Gripper,IEEE RA-L,Sep,2023
+867,A Provably Stable Iterative Learning Controller for Continuum Soft Robots,IEEE RA-L,Aug,2023
+868,Force Feedback-Based Gamification: Performance Validation of Squat Exergame Using Pneumatic Gel Muscles and Dynamic Difficulty Adjustment,IEEE RA-L,Aug,2023
+869,Hardware-in-the-Loop Soft Robotic Testing Framework Using an Actor- Critic Deep Reinforcement Learning Algorithm,IEEE RA-L,Aug,2023
+870,Model Reduction in Soft Robotics Using Locally Volume-Preserving Primitives,IEEE RA-L,Jul,2023
+871,Reinforcement Learning of CPG-Regulated Locomotion Controller for a Soft Snake Robot,IEEE T-RO,Jul,2023
+872,Control of soft robots with inertial dynamics,Science,Aug,2023
+873,Inverse Origami Design Model for Soft Robotic Development,SoRo Journal,Aug,2023
+874,Latent Representation-Based Learning Controller for Pneumatic and Hydraulic Dual Actuation of Pressure-Driven Soft Actuators,SoRo Journal,Aug,2023
+875,Closed-Loop Soft Robot Control Frameworks with Coordinated Policies Based on Reinforcement Learning and Proprioceptive Self-Sensing,Adv Func Mater,Aug,2023
+876,SofToss: Learning to Throw Objects With a Soft Robot,IEEE RAM,Sep,2023
+877,Embedded shape morphing for morphologically adaptive robots,Nature,Sep,2023
+878,This insect-sized robot can carry 22 times its own weight,Nature,Sep,2023
+879,"Soft Sensors Support Real-Time, Autonomous Process Monitoring",Gen Eng News,Sep,2023
+880,Dutch Program Pumps �10M into Soft Robotic Heart Development,MDDI,Jul,2023
+881,Asteroid Landings Call for Robots With a Soft Touch,IEEE Spectrum,Sep,2023
+882,"Design, modeling and control of a pneumatically actuated manipulator inspired by biological continuum structures","Bioinspir, Biomim,",Jun,2013
+883,A contact-aided compliant displacement-delimited gripper manipulator,"J, Mechanisms Robotics",Jul,2013
+884,Droplets out of equilibrium,Science,Jul,2013
+885,A new method for the analysis of soft tissues with data acquired under field conditions,PLoS ONE,Jun,2013
+886,"Soft robotics on the move: Scientific networks, activities, and future challenges",Soft Robotics,Jun,2014
+887,Learning object deformation models for robot motion planning,"Robot, Auton, Syst,",Aug,2014
+888,Three-dimensionally printed biological machines powered by skeletal muscle,PNAS,Jun,2014
+889,Movable shark scales act as a passive dynamic micro-roughness to control flow separation,"Bioinspir, Biomim ,",Jul,2014
+890,"Kinematic, stiffness, and dynamic analyses of a compliant tensegrity mechanism","J, Mechanisms Robotics",Jun,2014
+891,Robust force control of series elastic actuators,Actuators,Jul,2014
+892,Novel additive manufacturing pneumatic actuators and mechanisms for food handling grippers,Actuators,Jul,2014
+893,Soft robotics technologies to address shortcomings in today�s minimally invasive surgery: The STIFF-FLOP approach,Soft Robotics,Jun,2014
+894,A method for building self-folding machines,Science,Aug,2014
+895,Folding structures out of flat materials,Science,Aug,2014
+896,Structural origins of morphing in plant tissues,"Appl, Phys, Lett,",Jun,2014
+897,Robots get flexible and torqued up with origami wheels,IEEE Spectrum,Jun,2014
+898,Elastic cloaking material makes objects �unfeelable�,Scientific American,Jul,2014
+899,Microrobotic tentacles with spiral bending capability based on shape-engineered elastomeric microtubes,"Sci, Rep,",Jun,2015
+900,"A 3D printed, functionally graded soft robot powered by combustion",Science,Jul,2015
+901,Dynamics of underwater legged locomotion: modelling and experiments on an octopus-inspired robot,"Bioinspir, Biomim,",Jul,2015
+902,A model of larval biomechanics reveals exploitable passive properties for efficient locomotio n,Biomimetic and Biohybrid Systems,Jul,2015
+903,Breathable and stretchable temperature sensors inspired by ski n,"Sci, Rep,",Jun,2015
+904,Development of a self-healing soft pneumatic actuator: a first concept,"Bioinspir, Biomim,",Jun,2015
+905,"High-resolution, large-area fabrication of compliant electrodes via laser ablation for robust, stretchable dielectric elastomer actuators and sensors","Appl, Mater, Interfaces",Jul,2015
+906,A novel 4-DOF origami grasper with an SMA-actuation system for minimally invasive surgery,"IEEE Trans, Robot,",Jun,2016
+907,Soft wheels make robots tough,Nature-Robotics,Jul,2016
+908,Design and locomotion control of a soft robot using friction manipulation and motor�tendon actuation,"IEEE Trans, Robot,",Aug,2016
+909,Biomedical materials: A restorative synthetic skin,Nature Materials,Jul,2016
+910,Programming complex shapes in thin nematic elastomer and glass sheets,"Phys, Rev, E, Jun",,2016
+911,Open-loop control of creep and vibration in dielectric elastomer actuators with phenomenological models,"IEEE Trans, Mechatronics,",Jul,2016
+912,"Artificial metamorphosis: Evolutionary design of transforming, soft- bodied robots",Artificial Life,Aug,2016
+913,Exoskin: a programmable hybrid shape-changing material,IEEE Spectrum,Jun,2016
+914,Squishy robots: Phase-changing material could allow even low-cost robots to switch between hard and soft states,Science Daily,Jul,2016
+915,The future of robotic surgery: Snake-like bots that glide into orifices,IEEE Spectrum,Jul,2016
+916,Stryker launches SonicAnchor extremity fixation anchor,"Massdevice,com",Jul,2016
+917,Stretchable touch pad could become wearable touch screen,IEEE Spectrum,Aug,2016
+918,Science gels with healthcare,"Asme,org",Aug,2016
+919,A geometry deformation model for braided continuum manipulators,"Front, Robot, AI,",Jun,2017
+920,A soft multi-module manipulator with variable stiffness for minimally invasive surgery,"Bioinspir, Biomim,",Jun,2017
+921,Propulsion via flexible flapping in granular media,"Phys, Rev, E",Jul,2017
+922,Long-legged hexapod giacometti robot using thin soft McKibben actuator,IEEE RA-L,Jul,2017
+923,CNT-based sensor arrays for local strain measurements in soft pneumatic actuators,Int J Intell Robot,Jun,2017
+924,The language of glove: Wireless gesture decoder with low-power and stretchable hybrid electronics,PLOS ONE,Jul,2017
+925,Feedback control of soft robot actuators via commercial flex bend sensor s,"IEEE/ASME Trans, Mechatronics , Aug",,2017
+926,Optimizing the power and energy consumption of powered prosthetic ankles with series and parallel elasticity,MEMAT,Jun,2017
+927,"Bilateral, misalignment-compensating, full-DOF hip exoskeleton: Design and kinematic validation","Appl, Bionics Biomech,",Jun,2017
+928,A soft robotic exosuit improves walking in patients after stroke,"Sci, Transl, Med,",Jul,2017
+929,"Bilateral, misalignment-compensating, full-DOF hip exoskeleton: Design and kinematic validation","Appl Bionics Biomech,",Jul,2017
+930,Batch fabrication of customizable silicone-textile composite capacitive strain sensors for human motion tracking,"Adv, Mater, Technologies",Jul,2017
+931,Self-healing soft pneumatic robots,"Science Robotics, Aug",,2017
+932,Programmable deployment of tensegrity structures by stimulus- responsive polymers,"Sci, Rep,",Jun,2017
+933,Capability by stacking: The current design heuristic for soft robots,Biomimetics,Jul,2018
+934,Toward perceptive soft robots: Progress and challenges,Adv Sci,Jul,2018
+935,Design and development of a topology-optimized three-dimensional printed soft gripper,Soft Robotics,Jul,2018
+936,Microtransformers: Controlled microscale navigation with flexible robots,Phys Rev Fluids,Jun,2018
+937,Intermittent locomotion of a fish-like swimmer driven by passive elastic mechanism,Bionspiration Biomim,Jul,2018
+938,A soft optical waveguide coupled with fiber optics for dynamic pressure and strain sensing,IEEE RA-L,Jul,2018
+939,Printing ferromagnetic domains for untethered fast-transforming soft materials,Nature,Jun,2018
+940,Modeling of dielectric elastomer oscillators for soft biomimetic applications,Bionspiration Biomim,Jun,2018
+941,Exploiting textile mechanical anisotropy for fabric-based pneumatic actuators,Soft Robotics,Jul,2018
+942,Microfluidic-based flexible reflective multicolor display,Microsyst Nanoeng,Jul,2018
+943,Passive back support exoskeleton improves range of motion using flexible beams,Frontiers in Robotics and AI,Jun,2018
+944,Twist of tubular mechanical metamaterials based on waterbomb origami,Sci Rep,Jun,2018
+945,Trends and challenges in robot manipulation,Science,Jun,2019
+946,Long shape memory alloy tendon-based soft robotic actuators and implementation as a soft gripper,"Sci, Rep,",Aug,2019
+947,A neuro-inspired artificial peripheral nervous system for scalable electronic skins,"Sci, Robot",Jul,2019
+948,A soft ring oscillator,"Sci, Robot",Jun,2019
+949,Strain-programmable fiber-based artificial muscle,Science,Jul,2019
+950,Topology optimization and 3D printing of multimaterial magnetic actuators and displays,"Sci, Adv,",Jul,2019
+951,Stretchable pumps for soft machines,Nature,Aug,2019
+952,Autonomous deployment of a solar panel using elastic origami and distributed shape-memory-polymer actuators,"Phys, Rev, Applied",Jun,2019
+953,A soft pneumatic inchworm double balloon (SPID) for colonoscopy,"Sci, Rep,",Jul,2019
+954,Reconfigurable soft body trajectories using unidirectionally stretchable composite laminae,"Nat, Commun,",Jul,2019
+955,Theoretical foundation for design of friction-tunable soft finger with wrinkle�s morphology,IEEE RA-L,Jul,2019
+956,Contact patterning by laser printing for flexible electronics on paper,npj Flexible Electronics,Jun,2019
+957,"Reduced order vs, discretized lumped system models with absolute and relative states for continuum manipulators",Robotics: Science and Systems,Jun,2019
+958,H-Infinity based Extended Kalman Filter for state estimation in highly nonlinear soft robotic system,American Control Conference,Jul,2019
+959,Soft robotic bilateral hand rehabilitation system for fine motor learning,IEEE ICORR,Jul,2019
+960,A dexterous soft robotic hand for delicate in-hand manipulation,IEEE RA-L,Jul,2020
+961,"A soft manipulator for efficient delicate grasping in shallow water: modeling, control, and real-world experiments",Int J Robot Res,Jul,2020
+962,IRONSperm: Sperm-templated soft magnetic microrobots,Sci Adv,Jul,2020
+963,3D printed deformable sensors,Sci Adv,Jun,2020
+964,"A breathable, biodegradable, antibacterial, and self-powered electronic skin based on all-nanofiber triboelectric nanogenerators",Sci Adv,Jun,2020
+965,A model-based sensor fusion approach for force and shape estimation in soft robotics,IEEE RA-L,Jul,2020
+966,"Soft acoustic waveguides for strain, deformation, localization and twist measurements",IEEE Sens J,Jul,2020
+967,Data�driven disturbance observers for estimating external forces on soft robots,IEEE RA-L,Aug,2020
+968,Soft electromagnetic actuators,Sci Adv,Jun,2020
+969,Twisted-and-coiled actuators with free strokes enable soft robots with programmable motions,Soft Robotics,Jun,2020
+970,Multimode hydraulically amplified electrostatic actuators for wearable haptics,"Adv, Mater,",Jul,2020
+971,Design of a pneumatic soft actuator controlled via eye tracking and detection,Heliyon,Jul,2020
+972,Biosynthetic self-healing materials for soft machines,Nat Mater,Jul,2020
+973,Directed assembly of liquid metal�elastomer conductors for stretchable and self?healing electronics,Adv Mater,Jun,2020
+974,Overcoming Rayleigh�Plateau instabilities: Stabilizing and destabilizing liquid-metal streams via electrochemical oxidation,Proc Natl Acad Sci USA,Aug,2020
+975,Review on mobile robots that exploit resonance,Eng Sci,Aug,2021
+976,4D Thermomechanical metamaterials for soft microrobotics,Commun Mat,Sep,2021
+977,Hardware Methods for Onboard Control of Fluidically Actuated Soft Robots,Front Rob AI,Aug,2021
+978,Soft Robotic Oscillators With Strain-Based Coordination,IEEE RA-L,,2021
+979,Designing Soft Pneumatic Actuators for Thumb Movements,IEEE RA-L,,2021
+980,A Simple Free-Fold Test to Measure Bending Stiffness of Slender Soft Actuators,IEEE RA-L,,2021
+981,Soft Twisting Pneumatic Actuators Enabled by Freeform Surface Design,IEEE RA-L,Jul,2021
+982,Bone-Inspired Bending Soft Robot,SoRo J,Aug,2021
+983,Design and Fabrication of a Low-Cost Silicone and Water-Based Soft Actuator with a High Load-to-Weight Ratio,SoRo J,Aug,2021
+984,Soft Pneumatic Actuator with Bimodal Bending Response Using a Single Pressure Source,SoRo J,Aug,2021
+985,Tactile Scanning for Detecting Micro Bump by Strain-Sensitive Artificial Skin,IEEE RA-L,,2021
+986,A Soft Variable-Area Electrical-Double-Layer Energy Harvester,"Adv, Matter,",Aug,2021
+987,Wide-Bandwidth Soft Vibrotactile Interface Using Electrohydraulic Actuator for Haptic Steering Wheel Application,IEEE RA-L,,2021
+988,Soft Robotics: Morphology and Morphology-inspired Motion Strategy,IEEE/CAA J Autom Sinica,,2021
+989,An Analysis of Peristaltic Locomotion for Maximizing Velocity or Minimizing Cost of Transport of Earthworm-Like Robots,SoRo J,Aug,2021
+990,Surprisingly Robust In-Hand Manipulation: An Empirical Study,RSS conf,,2021
+991,Biomimetic chameleon soft robot with artificial crypsis and disruptive coloration skin,Nat Commun,Aug,2021
+992,A Cephalopod-Inspired Soft-Robotic Siphon for Thrust Vectoring and Flow Rate Regulation,SoRo J,Aug,2021
+993,Soft robotic constrictor for in vitro modeling of dynamic tissue compression,Sci Rep,Aug,2021
+994,Laser Endoscopic Manipulator Using Spring-Reinforced Multi-DoF Soft Actuator,IEEE RA-L,,2021
+995,Learning to control active matter,Phys Rev Research,Sep,2021
+996,Closed-Loop Position Control for Growing Robots Via Online Jacobian Corrections,IEEE RA-L,,2021
+997,Workspace Boundary Estimation for Soft Manipulators Using a Continuation Approach,IEEE RA-L,,2021
+998,earning Fingertip Force to Grasp Deformable Objects for Soft Wearable Robotic Glove With TSM,IEEE RA-L,,2021
+999,Facile Analytical Extraction of the Hyperelastic Constants for the Two-Parameter Mooney�Rivlin Model from Experiments on Soft Polymers,SoRo J,Aug,2021
+1000,Morphological Sensitivity and Falling Behavior of Paper V-Shapes,Artif Life,Sep,2021
+1001,Exosuit That Helps With the Heavy Lifting,IEEE Spectrum,Sep,2021
+1002,"A Soft, Wearable Brain�Machine Interface",IEEE Spectrum,Aug,2021
+1003,Tiny �maniac� robots could deliver drugs directly to central nervous system,"Front, Sci, News",Aug,2021
+1004,"Grasping deformable planar objects: Squeeze, stick/slip analysis, and energy-based optimalities","Int, J, Robot, Res,",Feb,2014
+1005,Model-based shape estimation for soft robotic manipulators: The planar case,"J, Mechanisms Robotics",Mar,2014
+1006,"Soft microfluidic assemblies of sensors, circuits, and radios for the skin",Science,Apr,2014
+1007,Piecewise affine modeling and constraint optimal control for a pneumatic artificial muscle,"IEEE T, Ind, Electron,",Feb,2014
+1008,"Targeted delivery: An integrated microrobotic platform for on- demand, targeted therapeutic interventions","Adv, Mater,",Feb,2014
+1009,In vivo time-resolved microtomography reveals the mechanics of the blowfly flight motor,PLoS Biology,Mar,2014
+1010,Review on Sensors and Components Used in Robotic Surgery: Recent Advances and New Challenges,IEEE Access,Dec,2023
+1011,Body-conformable light-emitting materials and devices,Nature,Dec,2023
+1012,Bioinspired soft robots for deep-sea exploration,Nature,Nov,2023
+1013,3D printing dielectric elastomers for advanced functional structures: A mini-review,Appl Polym Sci,Dec,2023
+1014,"Soft Optical Waveguides for Biomedical Applications, Wearable Devices, and Soft Robotics: A Review",Adv Int Syst,Nov,2023
+1015,Developments and Challenges of Miniature Piezoelectric Robots: A Review,Adv Sci,Oct,2023
+1016,"2D Materials Beyond Post-AI Era: Smart Fibers, Soft Robotics, and Single Atom Catalysts",Adv Mater,Oct,2023
+1017,Rotenna: Harnessing Seamless Integration of Continuum Robot for Dynamic Electromagnetic Reconfiguration,IEEE RA-L,Nov,2023
+1018,Design and motion analysis of a bidirectional parallel-chamber soft pneumatic actuator,Sage,Dec,2023
+1019,Development of Negative-Pressure Artificial Muscles With Fiber Constraints and Pre-Stretched Soft Skin,IEEE RA-L,Nov,2023
+1020,Assisted Magnetic Soft Continuum Robot Navigation via Rotating Magnetic Fields,IEEE RA-L,Nov,2023
+1021,Stability Analysis of Tendon Driven Continuum Robots and Application to Active Softening,IEEE T-RO,Oct,2023
+1022,"Trimmed helicoids: an architectured soft structure yielding soft robots with high precision, large workspace, and compliant interactions",Nature,Nov,2023
+1023,Muscle-inspired soft robots based on bilateral dielectric elastomer actuators,Nature,Oct,2023
+1024,Magnetic Liquid Metal Droplet Robot with Multifunction and High Output Force in Milli-Newton,SoRo Journal,Dec,2023
+1025,Deformation Characteristics of Three-Dimensional Spiral Soft Actuator Driven by Water Hydraulics for Underwater Manipulator,SoRo Journal,Nov,2023
+1026,A Versatile Topology-Optimized Compliant Actuator for Soft Robotic Gripper and Walking Robot,SoRo Journal,Oct,2023
+1027,Piezo-Wormbots for Continuous Crawling,SoRo Journal,Oct,2023
+1028,Variable Stiffness Fibers Enabled Universal and Programmable Re- Foldability Strategy for Modular Soft Robotics,Adv Sci,Dec,2023
+1029,"Thermo-Mechanically Stable, Liquid Metal Embedded Soft Materials for High-Temperature Applications",Adv Func Mater,Dec,2023
+1030,Tendril-Inspired Programmable Liquid Metal Photothermal Actuators for Soft Robots,Adv Func Mater,Nov,2023
+1031,Liquid Metal Microdroplet-Initiated Ultra-Fast Polymerization of a Stimuli-Responsive Hydrogel Composite,Adv Func Mater,Nov,2023
+1032,Highly Stretchable and Conductive MXene-Encapsulated Liquid Metal Hydrogels for Bioinspired Self-Sensing Soft Actuators,Adv Func Mater,Nov,2023
+1033,Ions-Silica Percolated Ionic Dielectric Elastomer Actuator for Soft Robots,Adv Sci,Oct,2023
+1034,Uni-axial reinforced dielectric elastomer actuators with embedded 3D printed fibers,"Smart Mater, Struct,",Dec,2023
+1035,Self-repairing elastomer based on imidazole /?�?/ stacking interaction,"Smart Mater, Struct,",Oct,2023
+1036,Dynamic Hand Proprioception via a Wearable Glove with Fabric Sensors,IEEE IROS,Oct,2023
+1037,An Energy-Efficient Solid-State Organic Device Array for Neuromorphic Computing,IEEE T-ED,Nov,2023
+1038,A Soft and Inflatable Vision-Based Tactile Sensor for Inspection of Constrained and Confined Spaces,IEEE Sensors,Oct,2023
+1039,Communication Energy Analysis in Soft Robotic and Artificial Skin Covered Structures Using Modified X-Node WBAN Network,IEEE Access,Oct,2023
+1040,MoSS: Monocular Shape Sensing for Continuum Robots,IEEE RA-L,Dec,2023
+1041,Development of Conductive Surface on Polyurethane Foam Using In Situ Polymerization of Pyrrole for Capacitive Pressure Sensing,IEEE Sensors,Dec,2023
+1042,Low-Temperature Bending Fatigue of NR Flexible Strain Sensor,IEEE Sensors,Dec,2023
+1043,Air-Chamber-Based Soft Six-Axis Force/Torque Sensor for Human Robot Interaction,IEEE TIM,Dec,2023
+1044,Flexible Electrolyte-Based Devices for Neuromorphic Electronics,IEEE J-Flex,Nov,2023
+1045,Flexible Piezoresistive Sensor With High Strain Sensitivity and Pressure Insensitivity for Motion Monitoring,IEEE J-Flex,Nov,2023
+1046,Multi-modal deformation and temperature sensing for context- sensitive machines,Nature,Nov,2023
+1047,Magnetically aware actuating composites: Sensing features as inspiration for the next step in advanced magnetic soft robotics,Physical Review,Dec,2023
+1048,Untethered Soft Pneumatic Actuators with Embedded Multiple Sensing Capabilities,SoRo Journal,Nov,2023
+1049,A Flexible Escape Skin Bioinspired by the Defensive Behavior of Shedding Scales,SoRo Journal,Oct,2023
+1050,Printable Polar Silicone Elastomers for Healable Supercapacitive Strain Sensors,Adv Mater Tech,Nov,2023
+1051,Soft Wearable Haptic Display and Flexible 3D Force Sensor for Teleoperated Surgical Systems,Adv Sensor,Oct,2023
+1052,Liquid Metal-Based Sensor Skin Enabling Haptic Perception of Softness,Adv Func Mater,Oct,2023
+1053,Vision-controlled jetting for composite systems and robots,Nature,Nov,2023
+1054,Hydrogel-assisted microfluidic spinning of stretchable fibers via fluidic and interfacial self-adaptations,Science,Oct,2023
+1055,3D-printed liquid metal polymer composites as NIR-responsive 4D printing soft robot,Nature,Nov,2023
+1056,Multimode coaxial extrusion of segmented core-shell structures for soft metamechanics and biomimetic applications,"Smart Mater, Struct,",Dec,2023
+1057,Magnetic Repulsion-Based Robot With Diverse Locomotion Capabilities,IEEE RA-L,Nov,2023
+1058,Design and build of small-scale magnetic soft-bodied robots with multimodal locomotion,Nature,Dec,2023
+1059,Nonbiomorphic Passively Adaptive Swimming Robot Enables Agile Propulsion in Cluttered Aquatic Environments,SoRo Journal,Oct,2023
+1060,Lightweight and Powerful Vacuum-Driven Gripper With Bioinspired Elastic Spine,IEEE RA-L,Oct,2023
+1061,Delicate Jamming Grasp: Detecting Deformation of Fragile Objects Using Permanent Magnet Elastomer Membrane,IEEE RA-L,Dec,2023
+1062,Soft-stable interface in grasping multiple objects by wiring-tension,Nature,Dec,2023
+1063,Dexterous all-soft hand (DASH) with active palm: multi-functional soft hand beyond grasping,"Smart Mater, Struct",Dec,2023
+1064,"Variable stiffness soft robotic gripper: design, development, and prospects","Bioinspir, Biomim",Dec,2023
+1065,Octopus-inspired sensorized soft arm for environmental interaction,Science,Nov,2023
+1066,Octopus-Inspired Muscular Hydrostats Powered By Twisted and Coiled Artificial Muscles,SoRo Journal,Nov,2023
+1067,Light-Driven Amphibious Mini Soft Robot Mimicking the Locomotion Gait of Inchworm and Water Strider,Adv Int Sys,Nov,2023
+1068,PiezoClimber: Versatile and Self-Transitional Climbing Soft Robot with Bioinspired Highly Directional Footpads,Adv Int Sys,Oct,2023
+1069,Single Channel Soft Robotic Actuator Leveraging Switchable Strain- Limiting Structures for Deep-Sea Suction Sampling,IEEE IROS,Oct,2023
+1070,Design and Validation of Soft Sliding Structure With Adjustable Stiffness for Ankle Sprain Prevention,IEEE RA-L,Dec,2023
+1071,Soft Hybrid Actuated Hierarchical Bronchoscope Robot for Deep Lung Examination,IEEE RA-L,Nov,2023
+1072,EMG-Based Intention Detection Using Deep Learning for Shared Control in Upper-Limb Assistive Exoskeletons,IEEE RA-L,Nov,2023
+1073,Experimental and Simulation-Based Estimation of Interface Power During Physical Human-Robot Interaction in Hand Exoskeletons,IEEE RA-L,Oct,2023
+1074,Multi-silicone bilateral soft physical twin as an alternative to traditional user interfaces for remote palpation: a comparative study,Nature,Dec,2023
+1075,Biomimetic Small Intestinal Peristalsis Simulator Using Circumferential Pneumatic Artificial Muscles (cirPAM),Adv Mater Tech,Dec,2023
+1076,Sensing Mucus Physiological Property In Situ by Wireless Millimeter- Scale Soft Robots,Adv Func Mater,Nov,2023
+1077,Real2Sim2Real Transfer for Control of Cable-Driven Robots Via a Differentiable Physics Engine,IEEE IROS,Oct,2023
+1078,Stiffness modelling and analysis of soft fluidic-driven robots using Lie theory,Sage IJRR,Dec,2023
+1079,Human Control of Simulated Modular Soft Robots May Predict the Performance of Optimized AI-Based Controllers,IEEE Access,Dec,2023
+1080,Toward the Use of Proxies for Efficient Learning Manipulation and Locomotion Strategies on Soft Robots,IEEE RA-L,Nov,2023
+1081,Morphological Design for Pneumatic Soft Actuators and Robots With Desired Deformation Behavior,IEEE T-RO,Oct,2023
+1082,RMRL: Robot Navigation in Crowd Environments With Risk Map-Based Deep Reinforcement Learning,IEEE RA-L,Oct,2023
+1083,Multi-Structure Parameter Optimization Analysis of Soft Actuator Based on Numerical Calculation,IEEE Access,Dec,2023
+1084,Autogeneration of Mission-Oriented Robot Controllers Using Bayesian- Based Koopman Operator,IEEE T-RO,Dec,2023
+1085,Multirobot Adversarial Resilience Using Control Barrier Functions,IEEE T-RO,Dec,2023
+1086,"A Generalized Motion Control Framework of Dielectric Elastomer Actuators: Dynamic Modeling, Sliding-Mode Control and Experimental Evaluation",IEEE T-RO,Dec,2023
+1087,A Hybrid Adaptive Controller for Soft Robot Interchangeability,IEEE RA-L,Nov,2023
+1088,Efficient Constrained Dynamics Algorithms Based on an Equivalent LQR Formulation Using Gauss� Principle of Least Constraint,IEEE T-RO,Nov,2023
+1089,Modeling and Design of Lattice-Reinforced Pneumatic Soft Robots,IEEE T-RO,Nov,2023
+1090,Automatically-Tuned Model Predictive Control for an Underwater Soft Robot,IEEE RA-L,Nov,2023
+1091,Physics-Informed Online Estimation of Stiffness and Shape of Soft Robotic Manipulators,IEEE L-CSS,Nov,2023
+1092,Design and Kinematic Modeling of a Soft Continuum Telescopic Arm for the Self-Assembly Mechanism of a Modular Robot,SoRo Journal,Nov,2023
+1093,A Toolbox for Designing 3D-Printing-Ready Pneumatic Circuits for Controlling Soft Robots,Adv Int Sys,Oct,2023
+1094,Wearable Robotics for Impaired Upper-Limb Assistance and Rehabilitation: State of the Art and Future Perspectives,IEEE Access,Oct,2022
+1095,Opportunities and challenges in the development of exoskeletons for locomotor assistance,Nature,Dec,2022
+1096,Design and Experimental Characterization of a Push-Pull Flexible Rod-Driven Soft-Bodied Robot,IEEE RA-L,Oct,2022
+1097,Magnetorheological Fluid-Based Bending Actuator for Magnetic Sensing,IEEE RA-L,Oct,2022
+1098,A magnetic soft robot with rolling and grasping capabilities,Sage,Oct,2022
+1099,High-performance electrified hydrogel actuators based on wrinkled nanomembrane electrodes for untethered insect-scale soft aquabots,Science,Oct,2022
+1100,Generating Clear Vibrotactile Cues with a Magnet Embedded in a Soft Finger Sheath,SoRo Journal,Dec,2022
+1101,Origami-Inspired Soft Twisting Actuator,SoRo Journal,Nov,2022
+1102,Additive Manufacturing of Tunable Metamaterials,"Book chapter, Wiley",Dec,2022
+1103,Electro-Powerless Balloon Soft Actuator with Manually Driven Fluidic Circuit,Adv Elec Mat,Dec,2022
+1104,"A Versatile Ionomer-Based Soft Actuator with Multi-Stimulus Responses, Self-Sustainable Locomotion, and Photoelectric Conversion",Adv Func Mat,Nov,2022
+1105,Highly Integrated Multi-Material Fibers for Soft Robotics,Adv Sci,Nov,2022
+1106,Artificial Muscles and Soft Robotic Devices for Treatment of End- Stage Heart Failure,Adv Mat,Oct,2022
+1107,Electromagnetic actuator design for distributed stiffness,Smart Mat Struct,Oct,2022
+1108,Anthropomorphic Twisted String-Actuated Soft Robotic Gripper With Tendon-Based Stiffening,IEEE T-RO,Dec,2022
+1109,Soft self-healing resistive-based sensors inspired by sensory transduction in biological systems,App Mater Today,Dec,2022
+1110,"Intrinsic Force Sensing for Motion Estimation in a Parallel, Fluidic Soft Robot for Endoluminal Interventions",IEEE RA-L,Oct,2022
+1111,Autonomous self-healing optical sensors for damage intelligent soft- bodied systems,Science,Dec,2022
+1112,Flexible Capacitive Sensing and Ultrasound Calibration for Skeletal Muscle Deformations,SoRo Journal,Nov,2022
+1113,Ultralow-Latency Textile Sensors for Wearable Interfaces with a Human-in-Loop Sensing Approach,SoRo Journal,Oct,2022
+1114,"Nanomaterials for Wearable, Flexible, and Stretchable Strain/ Pressure Sensors",Book chapter,Oct,2022
+1115,"ESPRESS,0: Eustachian Tube-Inspired Tactile Sensor Exploiting Pneumatics for Range Extension and SenSitivity Tuning",Sensors,Nov,2022
+1116,Reconfigurable Soft Robots by Building Blocks,Adv Sci,Oct,2022
+1117,Optimal design and experimental validation of 3D printed soft pneumatic actuators,Smart Mat Struct,Oct,2022
+1118,Walking locomotion of a cable-driven soft-legged robot,Sage,Nov,2022
+1119,Bio-Inspired Transparent Soft Jellyfish Robot,SoRo Journal,Dec,2022
+1120,Bioinspired 3D-Printed Snakeskins Enable Effective Serpentine Locomotion of a Soft Robotic Snake,SoRo Journal,Nov,2022
+1121,Soft Underwater Swimming Robots Based on Artificial Muscle,Adv Mat Tech,Oct,2022
+1122,A design of bionic soft gripper for automatic fabric grasping in apparel manufacturing,Sage,Nov,2022
+1123,Design and Gesture Optimization of a Soft-Rigid Robotic Hand for Adaptive Grasping,SoRo Journal,Nov,2022
+1124,A novel design of a passive variable stiffness soft robotic grippe,Bioinsp & Biomim,Oct,2022
+1125,Design and control of soft biomimetic pangasius fish robot using fin ray effect and reinforcement learning (video ),Nature,Dec,2022
+1126,Modular Bioinspired Hand with Multijoint Rigid-Soft Finger Possessing Proprioception,SoRo Journal,Nov,2022
+1127,Design and transmission modeling of a soft elbow exosuit using double artificial tendon system,Sage,Nov,2022
+1128,A soft supernumerary hand for rehabilitation in sub-acute stroke: a pilot study,Nature,Dec,2022
+1129,"Low-resistance, high-force, and large-ROM fabric-based soft elbow exosuits with adaptive mechanism and composite bellows",Sci China Tech Sci,Dec,2022
+1130,Simple Neural Network Compact Form Model-Free Adaptive Controller for Thin McKibben Muscle System,IEEE Access,Nov,2022
+1131,"Toward smart composites: Small-scale, untethered prediction and control for soft sensor/actuator systems",Sage,Oct,2022
+1132,Frictional Anisotropic Locomotion and Adaptive Neural Control for a Soft Crawling Robot,SoRo Journal,Nov,2022
+1133,Energy-saving trajectory optimization of a fluidic soft robotic arm,Smart Mat Struct,Oct,2022
+1134,Learn to swim: Online motion control of an underactuated robotic eel based on deep reinforcement learning,Biomim Intel Robot,Dec,2022
+1135,Statics and Dynamics of Continuum Robots Based on Cosserat Rods and Optimal Control Theories,IEEE T-RO,Dec,2022
+1136,Robot Aims to Help Children with Cerebral Palsy,ASME,Nov,2022
+1137,Soft robotics: The journey thus far and the challenges ahead,IEEE Robot Autom Mag,Dec,2020
+1138,Soft sensors that can feel it all,Sci Robot,Dec,2020
+1139,Bio?inspired conformable and helical soft fabric gripper with variable stiffness and touch sensing,Adv Mater Technol,Nov,2020
+1140,Dynamics of continuum and soft robots: A strain parameterization based approach,IEEE Trans Robot,Nov,2020
+1141,"Design and optimization of a dextrous robotic finger: Incorporating a sliding, rotating, and soft-bending mechanism while maximizing dexterity and minimizing dimensions",IEEE Robot Autom Mag,Dec,2020
+1142,Ultra-sensitive and resilient compliant strain gauges for soft machines,Nature,Nov,2020
+1143,Heterogeneous sensing in a multifunctional soft sensor for human- robot interfaces,Sci Robot,Dec,2020
+1144,Expanding pouch motor patterns for programmable soft bending actuation: Enabling soft robotic system adaptations,IEEE Robot Autom Mag,Dec,2020
+1145,Investigating the effects of strapping pressure on human-robot interface dynamics using a soft robotic cuff,IEEE Trans Med Robot Bionics,Dec,2020
+1146,Skills for physical artificial intelligence,Nat Mach Intell,Nov,2020
+1147,Laser reprogramming magnetic anisotropy in soft composites for reconfigurable 3D shaping,Nat Commun,Dec,2020
+1148,This �squidbot� jets around and takes pics of coral and fish,Techxplore,Oct,2020
+1149,"These giant robots are made of air, fabric",IEEE Spectrum,Nov,2020
+1150,Shape-changing robots that adapt to their environments,"Yale Univ, News",Nov,2020
+1151,The soft grip of animals inspires scientists to improve robots,"Wageninen Univ, News",Dec,2020
+1152,Hybrid jamming for bioinspired soft robotic fingers,Soft Robotics,Nov,2019
+1153,On-demand orbital maneuver of multiple soft robots via hierarchical magnetomotility,"Nat, Commun,",Oct,2019
+1154,Controlled flight of a microrobot powered by soft artificial muscles,Nature,Nov,2019
+1155,Color-based proprioception of soft actuators interacting with objects,"IEEE/ASME Trans, Mechatronics",Oct,2019
+1156,Flexible temperature sensor integrated with soft pneumatic microactuators for functional microfingers,"Sci, Rep,",Oct,2019
+1157,Visible and infrared three-wavelength modulated multi-directional actuators,"Nat, Commun,",Oct,2019
+1158,Neuromuscular actuation of biohybrid motile bots,"Proc, Natl, Acad, Sci,",Oct,2019
+1159,"Vine Robots: Design, teleoperation, and deployment for navigation and exploration","IEEE Robot Autom Mag,",Nov,2019
+1160,Nanomagnetic encoding of shape-morphing micromachines,Nature,Nov,2019
+1161,Design and analysis of a gripper with interchangeable soft fingers for ungrounded mobile robots,IEEE CIS-RAM,Nov,2019
+1162,New soft actuators could make soft robots less bulky,ScienceDaily,Oct,2019
+1163,Soft microbots programmed by nanomagnets,Nature News and Views,Nov,2019
+1164,Smash This Robot,IEEE Spectrum,Dec,2019
+1165,Discrete cosserat approach for multisection soft manipulator dynamics,"IEEE Trans, Robot,",Oct,2018
+1166,Controllable switching between planar and helical flagellar swimming of a soft robotic sperm,PLoS ONE,Nov,2018
+1167,EuMoBot: replicating euglenoid movement in a soft robot,"J, Royal Soc, Interface",Nov,2018
+1168,Chasing biomimetic locomotion speeds: Creating untethered soft robots with shape memory alloy actuators,Science Robotics,Dec,2018
+1169,Control of a muscle-like soft actuator via a bioinspired approach,"Bioinspiration, Biomim,",Oct,2018
+1170,A soft aquatic actuator for unsteady peak power amplification,"IEEE/ASME Trans, Mechatronics",Oct,2018
+1171,"Reverse pneumatic artificial muscles (rPAMs): Modeling, integration, and control",PLoS ONE,Oct,2018
+1172,Predicting leaky heart valves with 3D printing,Wyss Institute,Dec,2018
+1173,"A dexterous, glove-based teleoperable low-power soft robotic arm for delicate deep-sea biological exploration","Sci, Rep,",Oct,2018
+1174,Rotorigami: A rotary origami protective system for robotic rotorcraft,Science Robotics,Oct,2018
+1175,Mechanics of wet adhesion in soft interaction with patterned morphology,"Bioinspiration, Biomim,",Nov,2018
+1176,On the biological mechanics and energetics of the hip joint muscle� tendon system assisted by passive hip exoskeleton,"Bioinspiration, Biomim,",Dec,2018
+1177,Origami cushions protect drones from collisions,ICL News,Oct,2018
+1178,Graphene unlocks new potential for �smart textiles�,New Electronics,Dec,2018
+1179,Mechanics of jumping on water,"Phys, Rev, Fluids, Oct",,2017
+1180,Droplets as liquid robots,"Artif, Life, Nov",,2017
+1181,Remote tactile sensing system integrated with magnetic synapse,"Sci, Rep,, Dec",,2017
+1182,Fluid-driven origami-inspired artificial muscles,"Proc Natl Acad Sci, Oct",,2017
+1183,"A eutectic-alloy-infused soft actuator with sensing, tunable degrees of freedom, and stiffness properties","J, Micromech, Microeng,, Nov",,2017
+1184,An electric-eel-inspired soft power source from stacked hydrogels,"Nature, Dec",,2017
+1185,"Design and computational modelling of a modular, compliant robotic assembly for human lumbar unit and spinal cord assistance","Sci, Rep,, Oct",,2017
+1186,Soft robotic rehabilitation exoskeleton (REHAB Glove) for hand therapy,,,2017
+1187,Octopus-inspired camouflage for soft robotics,"IEEE Spectrum, Oct",,2017
+1188,"A sustainable, power-producing textile","Asme,org, Oct",,2017
+1189,Artificial muscles give soft robots superpowers,"Wyss Institute News, Nov",,2017
+1190,"Soft robotics target hand, finger rehab for stroke patients","Asme,org, Nov",,2017
+1191,This crazy new material could harvest electricity from the human body,"ScienceAlert, Nov",,2017
+1192,Controllable cyborg beetles for swarming search and rescue,"IEEE Spectrum, Nov",,2017
+1193,Role of body stiffness in undulatory swimming: Insights from robotic and computational models,"Phys, Rev, Fluids",Oct,2016
+1194,Partial redundancy and morphological homeostasis: Reliable development through overlapping mechanisms,"Artif, Life,",Nov,2016
+1195,Photomotility of polymers,"Nat, Commun,",Nov,2016
+1196,Intrusion rheology in grains and other flowable materials,"Nat, Mater,",Oct,2016
+1197,Versatile soft grippers with intrinsic electroadhesion based on multifunctional polymer actuators,"Adv, Mater,, Nov",,2015
+1198,Analytical model and stability analysis of the leading edge spar of a passively morphing ornithopter wing,"Bioinspir, Biomim,, Oct",,2015
+1199,Design considerations for an underwater soft-robot inspired from marine invertebrates,"Bioinspir, Biomim,, Oct",,2015
+1200,A precise embedded curvature sensor module for soft-bodied robots,"Sensor, Actuat, A � Phys, Dec",,2015
+1201,Wetting and phase separation in soft adhesion,"PNAS, Nov",,2015
+1202,A muscle-like recruitment actuator with modular redundant actuation units for soft robotics,"Robot, Auton, Syst,, Dec",,2015
+1203,High-displacement flexible Shape Memory Alloy actuator for soft wearable robots,"Robot, Auton, Syst,, Nov",,2015
+1204,Soft exosuit for hip assistance,"Robot, Auton, Syst,, Nov",,2015
+1205,Smart knee brace design with parallel coupled compliant plate mechanism and pennate elastic band spring,"J Mech Robot,, Nov",,2015
+1206,Vibration isolation by exploring bio-inspired structural nonlinearity,"Bioinspir, Biomim,, Oct",,2015
+1207,Effective wall friction in wall-bounded 3D dense granular flows,"Phys, Rev, Lett,, Oct",,2015
+1208,3D printed soft robotic tentacle with new level of agility,"IEEE Spectrum, Oct",,2015
+1209,3D printed soft skin for safe human robot interaction,"IEEE Spectrum, Oct",,2015
+1210,Neuromechanical control for hexapedal robot walking on challenging surfaces and surface classification,"Robot, Auton, Syst,, Dec",,2014
+1211,An experimental and three-dimensional computational study on the aerodynamic contribution to the passive pitching motion of flapping wings in hovering flies,"Bioinspir, Biomim,, Nov",,2014
+1212,Nonlinear bending models for beams and plates,"Proc, R, Soc, A, Nov",,2014
+1213,Learning by imitation with the STIFF-FLOP surgical robot: a biomimetic approach inspired by octopus movements,"Robotics Biomim,, Oct",,2014
+1214,Influence of surface traction on soft robot undulation,"Int, J, Robot, Res,, Nov",,2013
+1215,A dynamic finite element analysis of human foot complex in the sagittal plane during level walking,"PLoS ONE, Nov",,2013
+1216,Fluid�structure interaction-based biomechanical perception model for tactile sensing,"PLoS ONE, Nov",,2013
+1217,Analysis of initial cell spreading using mechanistic contact formulations for a deformable cell model,"PLoS Comp, Biol,, Oct",,2013
+1218,A generalized approach to the modeling and analysis of 3D surface morphology in organisms,"PLoS ONE, Oct",,2013
+1219,Engineering particle trajectories in microfluidic flows using particle shape,"Nat Commun,, Nov",,2013
+1220,Shape transitions in soft spheres regulated by elasticity,"Phys, Rev, E",Nov,2013
+1221,Stiffness dependent separation of cells in a microfluidic device,"PLoS ONE, Nov",,2013
+1222,Choose your weapon: defensive behavior is associated with morphology and performance in scorpions,"PLoS ONE, Nov",,2013
+1223,Electronic skins and machine learning for intelligent soft robots,"Sci Rob,",Apr,2020
+1224,A geometric variable-strain approach for static modeling of soft manipulators with tendon and fluidic actuation,IEEE RA-L,Apr,2020
+1225,Design and characterization of a hybrid soft gripper with active palm pose control,"Int, J, Robot, Res,",Jun,2020
+1226,A novel pneumatic soft snake robot using traveling-wave locomotion in constrained environments,IEEE RA-L,Apr,2020
+1227,Optimal actuation of flagellar magnetic microswimmers,"Phys, Rev, E",Apr,2020
+1228,Inflatable soft jumper inspired by shell snapping,"Sci, Rob,",May,2020
+1229,Dynamic simulation of articulated soft robots,"Nat, Commun,",May,2020
+1230,Magnetic cilia carpets with programmable metachronal waves,"Nat, Commun,",Jun,2020
+1231,Soft sensors for a sensing-actuation system with high bladder voiding efficiency,"Sci Adv,",Apr,2020
+1232,Biofuel-powered soft electronic skin with multiplexed and wireless sensing for human-machine interfaces,"Sci, Rob,",Apr,2020
+1233,Varying mechanical compliance benefits energy efficiency of a knee joint actuator,Mechatronics,Apr,2020
+1234,Electro-pneumatic dielectric elastomer actuator incorporating tunable bending stiffness,"Phys, Rev, Research",May,2020
+1235,The two-degree-of-freedom cable pulley (2DCP) transmission system: An under-actuated and motion decoupled transmission for robotic applications,"Mech, Mach, Theory",Jun,2018
+1236,"A hinge-free, non-restrictive, lightweight tethered exosuit for knee extension assistance during walking","IEEE Trans, Med, Robot,",Apr,2020
+1237,Reconfigurable and latchable shape?morphing dielectric elastomers based on local stiffness modulation,"Adv, Funct, Mater,",May,2020
+1238,Statistical reprogramming of macroscopic self-assembly with dynamic boundaries,"Proc, Natl, Acad, Sci, U,S,A",May,2020
+1239,Variable-stiffness tensegrity spine,"Smart, Mater, Struct,",Jun,2020
+1240,Uniform conductivity in stretchable silicones via multiphase inclusions,Soft Matter,Apr,2020
+1241,Resilient yet entirely degradable gelatin-based biogels for soft robots and electronics,"Nat, Mat",Jun,2020
+1242,Seven big advances in soft robotic grippers,ASME,Apr,2020
+1243,Inflatable E-Bike fits in a backpack,IEEE Spectrum,May,2020
+1244,Researchers develop real-time physics engine for soft robotics,Tech Xplore,May,2020
+1245,Shrink films get a grip,"ACS Appl, Polym, Mater,",Apr,2019
+1246,Propagation of pop ups in kirigami shells,"Proc Natl Acad Sci,",Apr,2019
+1247,Anisotropic and self-healing hydrogels with multi-responsive actuating capability,"Nat Commun,",May,2019
+1248,Tension pistons: Amplifying piston force using fluid?induced tension in flexible materials,"Adv Funct Mater,",Jun,2019
+1249,A Flexible shaft-driven Remote and Torsionally Compliant Actuator (RTCA) for wearable robots,Mechatronics,May,2019
+1250,A dynamic thermoregulatory material inspired by squid skin,"Nat Commun,",Apr,2019
+1251,Self-healing materials for soft-matter machines and electronics,"NPG Asia Mater,",May,2019
+1252,Soft-bubble: A highly compliant dense geometry tactile sensor for robot manipulation,IEEE Spectrum,Apr,2019
+1253,Soft circuits to control soft robots,IEEE Spectrum,Apr,2019
+1254,Innovations in soft robotics research,"Asme,org",Apr,2019
+1255,These robotic objects are designed to be stabbed and beaten to help you feel better,IEEE Spectrum,May,2019
+1256,Soft robotic grippers,"Adv, Mater,",May,2018
+1257,"Harnessing bistability for directional propulsion of soft, untethered robots","Proc, Natl, Acad, Sci,",May,2018
+1258,A study on plant root apex morphology as a model for soft robots moving in soil,PLoS ONE,Jun,2018
+1259,"Electronic skins for soft, compact, reversible assembly of wirelessly activated fully soft robots",Science Robotics,May,2018
+1260,Translucent soft robots driven by frameless fluid electrode dielectric elastomer actuators,Science Robotics,Apr,2018
+1261,Silicones for stretchable and durable soft devices: Beyond Sylgard-184,"Appl, Mater, Interfaces",May,2018
+1262,An autonomously electrically self-healing liquid metal�elastomer composite for robust soft-matter robotics and electronics,"Nat, Mater",May,2018
+1263,Towards alternative approaches for coupling of a soft robotic sleeve to the heart,Ann Biomed Eng,May,2018
+1264,FlyJacket lets you control a drone with your body,"Comm, of the ACM",Apr,2018
+1265,"Coiled carbon fiber artificial muscle lifts 12,000 times its own weight",New Atlas,Apr,2018
+1266,Researchers 3D print on skin for breakthrough applications,ASME,May,2018
+1267,Controllable load sharing for soft adhesive interfaces on three- dimensional surfaces,PNAS,Apr,2017
+1268,A wet-tolerant adhesive patch inspired by protuberances in suction cups of octopi,Nature,Jun,2017
+1269,Fast-moving soft electronic fish,"Sci, Adv,",Apr,2017
+1270,Propulsive performance of an under-actuated robotic ribbon fin,"Bioinspir, Biomim,",Jun,2017
+1271,Polybenzoxazole nanofiber-reinforced moisture-responsive soft actuators,"Sci, Rep,",Apr,2017
+1272,Flexible zinc�tin oxide thin film transistors operating at 1 kV for integrated switching of dielectric elastomer actuators arrays,"Adv, Mater,",Jun,2017
+1273,A light-driven artificial flytrap,"Nat, Commun,",May,2017
+1274,Physical interface dynamics alter how robotic exosuits augment human movement: implications for optimizing wearable assistive devices,"J Neuroeng, Rehabil,",May,2017
+1275,Introduction to the evolution of physical systems special issue,"Artif, Life,",May,2017
+1276,Real-World evolution of robot morphologies: A proof of concept,"Artif, Life,",May,2017
+1277,"Electric and magnetic fields drive soft, flexible robots",IEEE Spectrum,Apr,2017
+1278,"Mass production of low-cost, flexible inkjet-printed electronics",KurzweilAI,Apr,2017
+1279,Robotic caterpillar crawls ahead,"ASME,org",May,2017
+1280,Finding the right morphology to simplify control for soft robotics,Robohub,May,2017
+1281,New bioprinter makes it easier to fabricate 3D flesh and bone,IEEE Spectrum,May,2017
+1282,3D-printed pneumatic quadruped robot adapts to rough terrain,IEEE Spectrum,May,2017
+1283,Stable grip control on soft objects with time-varying stiffness,"IEEE Trans, Robot,",May,2016
+1284,Bio-inspired flexible joints with passive feathering for robotic fish pectoral fins,"Bioinspir, Biomim,",May,2016
+1285,Magnetic and mechanical modeling of a soft three-axis force sensor,"IEEE Sensors J,",Apr,2016
+1286,Series and parallel elastic actuation: Impact of natural dynamics on power and energy consumption,"Mech, Mach, Theory",May,2016
+1287,"PDMS-based elastomer tuned soft, stretchable, and sticky for epidermal electronics","Adv, Mater,",May,2016
+1288,Learning from nature how to land aerial robots,Science � Perspective,May,2016
+1289,Active shape discrimination with compliant bodies as reservoir computers,"Artif, Life",May,2016
+1290,Motility-driven glass and jamming transitions in biological tissues,"Phys, Rev, X, Apr",,2016
+1291,Stereotypical reaching movements of the octopus involve both bend propagation and arm elongation,"Bioinspir, Biomim,",May,2015
+1292,Exploitation of environmental constraints in human and robotic grasping,"Int, J, Robot, Res,",Jun,2015
+1293,Passive mechanical models of fish caudal fins: effects of shape and stiffness on self-propulsion,"Bioinspir, Biomim,",Apr,2015
+1294,"Aerodynamic performance of two-dimensional, chordwise flexible flapping wings at fruit fly scale in hover flight","Bioinspir, Biomim,",May,2015
+1295,Towards versatile legged robots through active impedance control,"Int, J, Robot, Res,",May,2015
+1296,Information processing via physical soft body,Scientific Report,May,2015
+1297,"Paws, pads and plants: the enhanced elasticity of cell-filled load- bearing structures","Proc, R, Soc, A",Jun,2015
+1298,"Design, fabrication and control of soft robots",Nature,May,2015
+1299,The robotics inventors who are trying to take the �hard� out of hardware,New York Times,Apr,2015
+1300,An artificial hand that can respond sensitively thanks to �muscles� made of shape-memory wires,"KurzweilAI,net",Apr,2015
+1301,Gold-plated onion shows strength as an artificial muscle,Scientific America,May,2015
+1302,"Smarter, cheaper technologies for improved point-of-care medicine in remote areas","KurzweilAI,net",May,2015
+1303,Wearables and electric vehicles may get boost from boron-infused graphene,"KurzweilAI,net",May,2015
+1304,Soft actuators go from squishy to stiff (and back again),IEEE Spectrum,Jun,2015
+1305,Anthropomorphic tendon-driven robotic hands can exceed human grasping capabilities following optimization,"Int, J, Robot Res,",Apr,2014
+1306,"A compliant, underactuated hand for robust manipulation","Int, J, Robot Res,",Apr,2014
+1307,Mechanics modeling of multisegment rod-driven continuum robots,"J, Mech, Robot,",Jun,2014
+1308,Design of variable-stiffness flapping mechanism for maximizing thrust of bio-inspired underwater robot,"Bioinspir, Biomim ,",Mar,2014
+1309,Continuously distributed magnetization profile for millimeter-scale elastomeric undulatory swimming,"Appl, Phys, Lett,",Apr,2014
+1310,Fluid�structure interaction in compliant insect wings,"Bioinspir, Biomim ,",May,2014
+1311,SoftCubes: stretchable and self-assembling three-dimensional soft modular matter,"Int, J, Robot Res,",May,2014
+1312,Extremely compliant and highly stretchable patterned graphene,"Appl, Phys, Lett,",Apr,2014
+1313,Soft tissue artefacts of the human back: comparison of the sagittal curvature of the spine measured using skin markers and an open upright MRI,PLoS ONE,Apr,2014
+1314,Hairy suckers: the surface microstructure and its possible functional significance in the Octopus vulgaris sucker,Beilstein J NAnotech,May,2014
+1315,"A soft, amorphous skin that can sense and localize textures",IEEE ICRA,Jun,2014
+1316,Simplifying grasping complexity through generalization of kinaesthetically learned synergies,IEEE ICRA,Jun,2014
+1317,Novel uniaxial force sensor based on visual information for minimally invasive surgery,IEEE ICRA,Jun,2014
+1318,Softness display by a multi-fingered haptic interface robot,IEEE ICRA,Jun,2014
+1319,"Flexible, bio-inspired machines are the future of engineering",Scientific American,Apr,2014
+1320,Liquid metal used to reconnect severed nerves,MIT Technology Review,Apr,2014
+1321,Transistors that wrap around tissues and morph with them,"KurzweilAI,net",May,2014
+1322,Continuous liquid interface production of 3D objects,Science,Mar,2015
+1323,"Shape deposition manufacturing of a soft, atraumatic, and deployable surgical grasper","J, Mechanisms Robotics, Feb",,2015
+1324,Hybrid deposition manufacturing: Design strategies for multimaterial mechanisms via three-dimensional printing and material deposition,"J, Mechanisms Robotics, Feb",,2015
+1325,Contact lines on soft solids with uniform surface tension: analytical solutions and double transition for increasing deformability,"Proc, Math, Phys, Eng, Sci,",Mar,2015
+1326,Bending a beam by a generalized ideal elastomeric ge l,"Proc, Math, Phys, Eng, Sci,, Feb",,2015
+1327,"Soft, curved electrode systems capable of integration on the auricle as a persistent brain�computer interface",PNAS,Mar,2015
+1328,Exo-Glove: A wearable robot for the hand with a soft tendon routing system,"IEEE Robot, Automat, Mag,",Mar,2015
+1329,Goal-directed multimodal locomotion through coupling between mechanical and attractor selection dynamics,"Bioinspir, Biomim,",Mar,2015
+1330,"Materials that couple sensing, actuation, computation and communication",Science,Mar,2015
+1331,Mechanically stretchable and tunable metamaterial absorber,"Appl, Phys, Lett,",Mar,2015
+1332,"Soft, energy-efficient, robotic wings",Science Daily,Mar,2015
+1333,Rubbery glass arrives,"Scientific America, Feb",,2015
+1334,Hybrid motion/force control of multi-backbone continuum robots,"Int, J, Robot, Res,",Mar,2016
+1335,Cockroaches inspire robot,"Nature � Research Highlights, Feb",,2016
+1336,Highly stretchable electroluminescent skin for optical signaling and tactile sensing,Science,Mar,2016
+1337,Artificial muscles for jaw movements,Extreme Mechanics Letters,Mar,2016
+1338,Biomimetic 4D printing,Nature Material,Apr,2016
+1339,Knots as topological order parameter for semi-flexible polymers,"Phys, Rev, Lett,, Mar",,2016
+1340,Why is it so hard to squash a cockroach,Science � News,Feb,2016
+1341,Paper skin mimics the real thing,"IEEE Spectrum, Feb",,2016
+1342,"Are you ready for soft, morphing, crawling robots with glowing skin displays?",KurzweilAI,Mar,2016
+1343,A wearable graphene-based biomedical device to monitor and treat diabetes,KurzweilAI,Mar,2016
+1344,"Researchers develop stretchy, radar-cloaking skin","Csmonitor,com",Mar,2016
+1345,Soft material robotics,Foundation and Trends,Apr,2017
+1346,From the elastica compass to the elastica catapult: an essay on the mechanics of soft robot arm,"Proc, R, Soc, A",Feb,2017
+1347,Hybrid parameter identification of a multi-modal underwater soft robot,"Bioinspir, Biomim,",Feb,2017
+1348,Experimental optimization of wing shape for a hummingbird-like flapping wing micro air vehicle,"Bioinspir, Biomim,",Mar,2017
+1349,Palpation force modulation strategies to identify hard regions in soft tissue organs,PLoS One,Feb,2017
+1350,Simple empirical model for identifying rheological properties of soft biological tissues,"Phys, Rev,",Feb,2017
+1351,Open-loop control of creep and vibration in dielectric elastomer actuators with phenomenological models,"IEEE/ASME Trans, Mechatronics",Feb,2017
+1352,Adapting to flexibility: Model reference adaptive control of soft bending actuators,IEEE RA-L,Apr,2017
+1353,"The ankle mimicking prosthetic foot 3 � Locking mechanisms, actuator design, control and experiments with an amputee",Feb,,2017
+1354,A fully fabric-based bidirectional soft robotic glove for assistance and rehabilitation of hand impaired patients,IEEE RA-L,Feb,2017
+1355,Autonomous control of continuum robot manipulators for complex cardiac ablation tasks,J Med Robot Res,Mar,2017
+1356,The quest for natural machine motion: An open platform to fast- prototyping articulated soft robots,"IEEE Robot, Autom, Mag,",Mar,2017
+1357,Instrumented cardiac microphysiological devices via multimaterial three-dimensional printing,Nature Materials,Mar,2017
+1358,Decentralized control scheme for myriapod robot inspired by adaptive and resilient centipede locomotion,"PLoS ONE, Feb",,2017
+1359,A feel for feline innovation,ASME,Feb,2017
+1360,"Toward printable, sensor-laden �skin� for robots",Robohub,Mar,2017
+1361,This robotic tentacle can easily grasp smooth objects,"MIT Tech, Review",Mar,2017
+1362,This strange robotic octopus could soon be working with humans,The Telegraph,Mar,2017
+1363,3 squishy medical robots that are as soft as you are,IEEE Spectrum,Mar,2017
+1364,Morphological computation in haptic sensation and interaction: from nature to robotics,"Adv, Robotics",Mar,2018
+1365,Soft pneumatic grippers embedded with stretchable electroadhesion,"Smart Mater, Struct",Mar,2018
+1366,Soft robotics: Do the locomotion with me,"Nature Review Materials, Feb",,2018
+1367,Swimming performance and unique wake topology of the sea hare (Aplysia),"Phys, Rev, Fluids",Mar,2018
+1368,Soft somatosensitive actuators via embedded 3D printing,"Advanced Materials, Feb",,2018
+1369,A supramolecular biomimetic skin combining a wide spectrum of mechanical properties and multiple sensory capabilities,"Nat, Commun,",Mar,2018
+1370,3D printing of robotic soft actuators with programmable bioinspired architectures,"Nat, Commun,, Feb",,2018
+1371,Reduced-order modeling of soft robots,"PLoS ONE, Feb",,2018
+1372,"A soft, bistable valve for autonomous control of soft actuators",Science Robotics,Mar,2018
+1373,Miniature soft electromagnetic actuators for robotic applications,"Adv, Funct, Mater",Mar,2018
+1374,Transforming the dynamic response of robotic structures and systems through laminar jamming,IEEE RA-L,Apr,2018
+1375,A digital light processing 3D printer for fast and high-precision fabrication of soft pneumatic actuators,Sens Actuators A,Apr,2018
+1376,Miniature soft robots � road to the clinic,Nature Review Materials,Apr,2018
+1377,Information-theoretic model selection for optimal prediction of stochastic dynamical systems from data,"Phys, Rev, E",Mar,2018
+1378,Self-healing electronic �skin� lets amputees sense temperature and pressure on prosthetic limbs,Newsweek,Feb,2018
+1379,Robotic fingers get touchy-feely,Nature Technology,Mar,2018
+1380,Origami inspired foldable robotic arm,Science Daily,Mar,2018
+1381,MIT�s soft robotic fish explores reefs in Fiji,IEEE Spectrum,Mar,2018
+1382,Robots are learning to handle with care,The Wall Street Journal,Mar,2018
+1383,Scientists develop method to print in 3-D with liquid,Construction Dive,Mar,2018
+1384,Towards a variable stiffness surgical manipulator based on fiber jamming transition,"Front, robot, AI,",Mar,2019
+1385,Magnetic augmented self-sensing flexible electroadhesive grippers,IEEE RA-L,Mar,2019
+1386,Elasto-capillary adhesion: Effect of deformability on adhesion strength and detachment,"Phys, Rev, Fluids,",Mar,2019
+1387,Grasping interface with wet adhesion and patterned morphology: Case of thin shell,IEEE RA-L,Apr,2019
+1388,A hopping robot driven by a series elastic dual-motor actuator,IEEE RA-L,Feb,2019
+1389,Morphing robots using robotic skins that sculpt clay,IEEE RA-L,Apr,2019
+1390,"Stretchable, self-healing, transient macromolecular elastomeric gel for wearable electronics","Microsyst, Nanoeng,",Mar,2019
+1391,Integrated soft ionotronic skin with stretchable and transparent hydrogel�elastomer ionic sensors for hand-motion monitoring,Soft Robotics,Mar,2019
+1392,Polymeric foams for flexible and highly sensitive low-pressure capacitive sensors,npj Flexible Electronics,Apr,2019
+1393,Wrinkled soft sensor with variable afferent morphology,IEEE RA-L,Apr,2019
+1394,Numerical analysis of periodic laminar and fibrous media undergoing a jamming transition,"Eur J, Mech, A-Solid",Feb,2019
+1395,Feedforward control of the rate-dependent viscoelastic hysteresis nonlinearity in dielectric elastomer actuators,IEEE RA-L,Mar,2019
+1396,Robot melts its bones to change how it walks,IEEE Spectrum,Feb,2019
+1397,Scientists create stretchy self-healing electronic skin inspired by jellyfish,InterestingEngineering,Mar,2019
+1398,Current advances in soft robotics: Best papers from RoboSoft 2018,"Front, Robot, AI,",Apr,2020
+1399,Programmable droplet manipulation by a magnetic-actuated robot,"Sci, Adv,",Feb,2020
+1400,Design and prototyping soft�rigid tendon-driven modular grippers using interpenetrating phase composites materials,"Int, J, Robot, Res,",Feb,2020
+1401,A 1mm-thick miniatured mobile soft robot with mechanosensation and multimodal locomotion,IEEE RA-L,Apr,2020
+1402,Sustainable manufacturing of sensors onto soft systems using self- coagulating conductive pickering emulsions,"Sci, Robot",Feb,2020
+1403,Geometric confined pneumatic soft�rigid hybrid actuators,Soft Robotics,Feb,2020
+1404,"Characterization, simulation and control of a soft helical pneumatic implantable robot for tissue regeneration",IEEE T-MRB,Feb,2020
+1405,Additive manufacturing for self-healing soft robots,Soft Robotics,Mar,2020
+1406,Inverse statics optimization for compound tensegrity robots,IEEE RA-L,Mar,2020
+1407,Model-based pose control of inflatable eversion robot with variable stiffness,IEEE RA-L,Apr,2020
+1408,"Soft, wireless periocular wearable electronics for real-time detection of eye vergence in a virtual reality toward mobile eye therapies","Sci Adv,",Mar,2020
+1409,Vertical fibers in the suckerfish�s suction cup-like fin help it hitchhike,"Phys,org",Feb,2020
+1410,One indestructible bug in a soft robotic body,ASME,Mar,2020
+1411,"Engineers 3D print soft, rubbery brain implants",MIT News,Mar,2020
+1412,Soft robot takes cues from a sea slug�s swimming stroke,Nature Research Highlight,Mar,2020
+1413,Reality-assisted evolution of soft robots through large-scale physical experimentation: A review,"Artif, Life",Feb,2021
+1414,Soft robotic modeling and control: Bringing together articulated soft robots and soft-bodied robots,"Int, J, Robot, Res,",Feb,2021
+1415,A review on self-healing polymers for soft robotics,"Mater, Today",Mar,2021
+1416,Closed-loop control of soft continuum manipulators under tip follower actuation,"Int, J, Robot, Res,",Mar,2021
+1417,Collision resilient insect-scale soft-actuated aerial robots with high agility,"IEEE Trans, Robot,",Feb,2021
+1418,A rhythmic activation mechanism for soft multi-legged robots,"J, Intell, Robot, Syst,",Mar,2021
+1419,Self-propelled hydrogels that glide on water,"Sci, Robot",Apr,2021
+1420,Soft magnetic skin for super-resolution tactile sensing with force self-decoupling,"Sci, Robot",Feb,2021
+1421,"Design, modeling, and control of a 3D printed monolithic soft robotic finger with embedded pneumatic sensing chambers","IEEE ASME Trans, Mechatron,",Apr,2021
+1422,Soft pumps for soft robots,"Sci, Robot",Feb,2021
+1423,Electro-pneumatic pumps for soft robotics,"Sci, Robot",Feb,2021
+1424,Customizing a self-healing soft pump for robot,"Nat, Commun",Apr,2021
+1425,Somatosensory actuator based on stretchable conductive photothermally responsive hydrogel,"Sci, Robot",Apr,2021
+1426,MAMMOBOT: A miniature steerable soft growing robot for early breast cancer detection,IEEE RA-L,Mar,2021
+1427,A tapered soft robotic oropharyngeal swab for throat testing: A new way to collect sputa samples,"IEEE Robot, Autom, Mag,",Mar,2021
+1428,Power-efficient adaptive behavior through a shape-changing elastic robot,"Adapt, Behav,",Mar,2021
+1429,Tactile compensation for artificial whiskered sensor system under critical change in morphology,IEEE RA-L,Mar,2021
+1430,High�load capacity origami transformable wheel,"Sci, Robot",Apr,2021
+1431,"Robotic surfaces with reversible, spatiotemporal control for shape morphing and object manipulation","Sci, Robot",Apr,2021
+1432,A sliding-rod variable-strain model for concentric tube robots,IEEE RA-L,Apr,2021
+1433,This robot doesn�t need any electronics,ScienceDaily,Feb,2021
+1434,Daily briefing: Soft swimming robot survives the Mariana Trench,Nature Briefing,Mar,2021
+1435,Researchers� algorithm designs soft robots that sense,PlantEngineering,Mar,2021
+1436,Flexible polymer transistors with high pressure sensitivity for application in electronic skin and health monitoring,"Nat Commun,",May,2013
+1437,Dynamics of elastic interactions in soft and biological matter,"Phys, Rev, E",Apr,2013
+1438,Spatial continuum models of rods undergoing large deformation and inflation,"IEEE Trans, in Robotics",Apr,2013
+1439,Gravity-induced encapsulation of liquids by destabilization of granular rafts,"Nat Commun,",Apr,2013
+1440,Curved pleat folding for smooth wrapping,"Proc, R, Soc, A",May,2013
+1441,Benefit of pulsation in soft corals,PNAS,May,2013
